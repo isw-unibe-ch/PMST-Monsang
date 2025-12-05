@@ -1,0 +1,1013 @@
+{
+  "name": "pmst-monsang",
+  "title": "PMST-Monsang: Person Marking in Monsang (South-Central Trans-Himalayan)",
+  "profile": "data-package",
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "keywords": [
+    "Monsang",
+    "paradigms",
+    "person marking",
+    "paralex"
+  ],
+  "version": "1.0.0",
+  "resources": [
+    {
+      "name": "sources",
+      "type": "file",
+      "title": "Sources",
+      "description": "Bibliographical references.",
+      "path": "sources.bib",
+      "scheme": "file",
+      "format": "bib",
+      "mediatype": "text/x-bibtex",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "readme",
+      "type": "text",
+      "title": "Read me",
+      "description": "Basic documentation",
+      "path": "readme.md",
+      "scheme": "file",
+      "format": "md",
+      "mediatype": "text/markdown",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "graphemes",
+      "type": "table",
+      "title": "Graphemes inventory",
+      "path": "pmst-monsang_graphemes.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "name": "graphemes-schema",
+        "fields": [
+          {
+            "name": "grapheme_id",
+            "type": "string",
+            "title": "grapheme representation",
+            "description": "These identifiers are specific to graphemes.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            },
+            "rdfType": "http://linguistics-ontology.org/gold/2010/Grapheme"
+          },
+          {
+            "name": "language_id",
+            "type": "string",
+            "title": "language identifier",
+            "description": "Identifier for the language for comparison across PMST data sets"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "grapheme_id"
+        ]
+      },
+      "rdfType": "https://www.paralex-standard.org/paralex_ontology.xml#Grapheme"
+    },
+    {
+      "name": "features-values",
+      "type": "table",
+      "title": "Grammatical features values",
+      "path": "pmst-monsang_features.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "name": "features-values-schema",
+        "fields": [
+          {
+            "name": "value_id",
+            "type": "string",
+            "title": "Grammatical Feature value identifier",
+            "description": "Identifier for the grammatical feature value (as found in the cell)",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "title": "label for this row",
+            "description": "A human readable label for the row.",
+            "rdfProperty": "http://www.w3.org/2000/01/rdf-schema#label"
+          },
+          {
+            "name": "feature",
+            "type": "string",
+            "title": "feature",
+            "description": "The name of the dimension of this feature, eg. case, tense, modality, voice, force, gender, evidentiality, person, number, polarity...",
+            "constraints": {
+              "required": true
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#feature"
+          },
+          {
+            "name": "unimorph",
+            "type": "string",
+            "title": "Cell in unimorph format",
+            "description": "The cell, written following the unimorph schema",
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#unimorph"
+          },
+          {
+            "name": "language_id",
+            "type": "string",
+            "title": "language identifier",
+            "description": "Identifier for the language for comparison across PMST data sets"
+          }
+        ],
+        "primaryKey": [
+          "value_id"
+        ]
+      },
+      "rdfType": "https://www.paralex-standard.org/paralex_ontology.xml#FeatureValue"
+    },
+    {
+      "name": "sounds",
+      "type": "table",
+      "title": "Sound inventory with distinctive features",
+      "path": "pmst-monsang_sounds.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "name": "sounds-schema",
+        "fields": [
+          {
+            "name": "sound_id",
+            "type": "string",
+            "title": "sound representation",
+            "description": "These identifiers are specific to sounds.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "sound_clts",
+            "type": "string",
+            "title": "phoneme representation in CLTS",
+            "description": "Alternative IPA representation of phoneme needed for linking with CLTS"
+          },
+          {
+            "name": "sound_phoible",
+            "type": "string",
+            "title": "phoneme representation in PHOIBLE",
+            "description": "Alternative IPA representation of phoneme needed for linking with PHOIBLE"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "title": "label for this row",
+            "description": "A human readable label for the row.",
+            "rdfProperty": "http://www.w3.org/2000/01/rdf-schema#label"
+          },
+          {
+            "name": "CLTS_id",
+            "type": "string",
+            "title": "Identifier of this sound in CLTS",
+            "description": "Reference to this sound in CLTS data.",
+            "constraints": {
+              "unique": true
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#CLTS_id"
+          },
+          {
+            "name": "PHOIBLE_id",
+            "type": "string",
+            "title": "Identifier of this sound in PHOIBLE",
+            "description": "Reference to this sound in PHOIBLE.",
+            "constraints": {
+              "unique": true
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#PHOIBLE_id"
+          },
+          {
+            "name": "class",
+            "type": "string",
+            "title": "class of the sound",
+            "description": "Classifies the sound as vowel, consonant, or tone"
+          },
+          {
+            "name": "tone",
+            "type": "any"
+          },
+          {
+            "name": "stress",
+            "type": "any"
+          },
+          {
+            "name": "syllabic",
+            "type": "any"
+          },
+          {
+            "name": "short",
+            "type": "any"
+          },
+          {
+            "name": "long",
+            "type": "any"
+          },
+          {
+            "name": "consonantal",
+            "type": "any"
+          },
+          {
+            "name": "sonorant",
+            "type": "any"
+          },
+          {
+            "name": "continuant",
+            "type": "any"
+          },
+          {
+            "name": "delayedRelease",
+            "type": "any"
+          },
+          {
+            "name": "approximant",
+            "type": "any"
+          },
+          {
+            "name": "tap",
+            "type": "any"
+          },
+          {
+            "name": "trill",
+            "type": "any"
+          },
+          {
+            "name": "nasal",
+            "type": "any"
+          },
+          {
+            "name": "lateral",
+            "type": "any"
+          },
+          {
+            "name": "labial",
+            "type": "any"
+          },
+          {
+            "name": "round",
+            "type": "any"
+          },
+          {
+            "name": "labiodental",
+            "type": "any"
+          },
+          {
+            "name": "coronal",
+            "type": "any"
+          },
+          {
+            "name": "anterior",
+            "type": "any"
+          },
+          {
+            "name": "distributed",
+            "type": "any"
+          },
+          {
+            "name": "strident",
+            "type": "any"
+          },
+          {
+            "name": "dorsal",
+            "type": "any"
+          },
+          {
+            "name": "high",
+            "type": "any"
+          },
+          {
+            "name": "low",
+            "type": "any"
+          },
+          {
+            "name": "front",
+            "type": "any"
+          },
+          {
+            "name": "back",
+            "type": "any"
+          },
+          {
+            "name": "tense",
+            "type": "any"
+          },
+          {
+            "name": "retractedTongueRoot",
+            "type": "any"
+          },
+          {
+            "name": "advancedTongueRoot",
+            "type": "any"
+          },
+          {
+            "name": "periodicGlottalSource",
+            "type": "any"
+          },
+          {
+            "name": "epilaryngealSource",
+            "type": "any"
+          },
+          {
+            "name": "spreadGlottis",
+            "type": "any"
+          },
+          {
+            "name": "constrictedGlottis",
+            "type": "any"
+          },
+          {
+            "name": "fortis",
+            "type": "any"
+          },
+          {
+            "name": "raisedLarynxEjective",
+            "type": "any"
+          },
+          {
+            "name": "loweredLarynxImplosive",
+            "type": "any"
+          },
+          {
+            "name": "click",
+            "type": "any"
+          },
+          {
+            "name": "language_id",
+            "type": "string",
+            "title": "language identifier",
+            "description": "Identifier for the language for comparison across PMST data sets"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "sound_id"
+        ]
+      },
+      "rdfType": "https://www.paralex-standard.org/paralex_ontology.xml#Sound"
+    },
+    {
+      "name": "cells",
+      "type": "table",
+      "title": "Paradigm cells",
+      "path": "pmst-monsang_cells.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "name": "cells-schema",
+        "fields": [
+          {
+            "name": "cell_id",
+            "type": "string",
+            "title": "Cell identifier",
+            "description": "The set of feature values as would appear in a gloss, separated by dots, eg. prs.ind.1sg or f.pl",
+            "constraints": {
+              "required": true,
+              "unique": true,
+              "pattern": "(excl|incl|nfut|aff|neg|fut|pl|sg|1|2|3)(\\.(excl|incl|nfut|aff|neg|fut|pl|sg|1|2|3))*"
+            }
+          },
+          {
+            "name": "POS",
+            "type": "string",
+            "title": "Part of Speech",
+            "description": "The relevant part of speech for this item. This must refer to a PartOfSpeech entity from the lexinfo (https://lexinfo.net/) ontology.",
+            "constraints": {
+              "enum": [
+                "verb",
+                "numeral",
+                "conjunction",
+                "noun",
+                "adposition",
+                "determiner",
+                "article",
+                "adverb",
+                "pronoun",
+                "fusedPreposition",
+                "adjective",
+                "symbol",
+                "particle",
+                "conditionalParticle",
+                "demonstrativePronoun",
+                "interjection",
+                "semiColon",
+                "diminutiveNoun",
+                "possessivePronoun",
+                "prepositionalAdverb",
+                "compoundPreposition",
+                "interrogativeRelativePronoun",
+                "possessiveParticle",
+                "plainVerb",
+                "letter",
+                "interrogativeDeterminer",
+                "relativePronoun",
+                "postposition",
+                "fusedPronounAuxiliary",
+                "interrogativeOrdinalNumeral",
+                "indefiniteOrdinalNumeral",
+                "strongPersonalPronoun",
+                "possessiveRelativePronoun",
+                "ordinalAdjective",
+                "collectivePronoun",
+                "commonNoun",
+                "infinitiveParticle",
+                "comparativeParticle",
+                "partitiveArticle",
+                "invertedComma",
+                "lightVerb",
+                "emphaticPronoun",
+                "distinctiveParticle",
+                "genericNumeral",
+                "possessiveAdjective",
+                "reflexivePossessivePronoun",
+                "colon",
+                "coordinationParticle",
+                "presentParticipleAdjective",
+                "fusedPrepositionPronoun",
+                "cardinalNumeral",
+                "indefiniteDeterminer",
+                "numeralFraction",
+                "questionMark",
+                "generalAdverb",
+                "superlativeParticle",
+                "point",
+                "indefiniteMultiplicativeNumeral",
+                "comma",
+                "closeParenthesis",
+                "futureParticle",
+                "personalPronoun",
+                "reflexivePersonalPronoun",
+                "adverbialPronoun",
+                "reciprocalPronoun",
+                "openParenthesis",
+                "pastParticipleAdjective",
+                "negativePronoun",
+                "relativeDeterminer",
+                "existentialPronoun",
+                "pronominalAdverb",
+                "relativeParticle",
+                "exclamativeDeterminer",
+                "multiplicativeNumeral",
+                "reflexiveDeterminer",
+                "modal",
+                "unclassifiedParticle",
+                "properNoun",
+                "allusivePronoun",
+                "interrogativeCardinalNumeral",
+                "bullet",
+                "subordinatingConjunction",
+                "irreflexivePersonalPronoun",
+                "possessiveDeterminer",
+                "negativeParticle",
+                "indefinitePronoun",
+                "generalizationWord",
+                "coordinatingConjunction",
+                "deficientVerb",
+                "adjective-i",
+                "impersonalPronoun",
+                "indefiniteCardinalNumeral",
+                "adjective-na",
+                "qualifierAdjective",
+                "affirmativeParticle",
+                "mainVerb",
+                "fusedPrepositionDeterminer",
+                "indefiniteArticle",
+                "weakPersonalPronoun",
+                "suspensionPoints",
+                "interrogativeMultiplicativeNumeral",
+                "affixedPersonalPronoun",
+                "auxiliary",
+                "circumposition",
+                "copula",
+                "demonstrativeDeterminer",
+                "participleAdjective",
+                "exclamativePoint",
+                "interrogativePronoun",
+                "presentativePronoun",
+                "punctuation",
+                "definiteArticle",
+                "slash",
+                "exclamativePronoun",
+                "preposition",
+                "conditionalPronoun",
+                "relationNoun",
+                "interrogativeParticle"
+              ]
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#POS"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "title": "label for this row",
+            "description": "A human readable label for the row.",
+            "rdfProperty": "http://www.w3.org/2000/01/rdf-schema#label"
+          },
+          {
+            "name": "language_id",
+            "type": "string",
+            "title": "language identifier",
+            "description": "Identifier for the language for comparison across PMST data sets"
+          }
+        ],
+        "primaryKey": [
+          "cell_id"
+        ],
+        "foreignKeys": []
+      },
+      "rdfType": "https://www.paralex-standard.org/paralex_ontology.xml#Cell"
+    },
+    {
+      "name": "forms",
+      "type": "table",
+      "title": "Inflected forms",
+      "path": "pmst-monsang_forms.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "name": "forms-schema",
+        "fields": [
+          {
+            "name": "form_id",
+            "type": "string",
+            "title": "Form table row identifiers",
+            "description": "These identifiers are specific to form, lexeme, cell triples.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "lexeme",
+            "type": "string",
+            "title": "Reference to a lexeme identifier",
+            "description": "Lexeme identifiers must be unique to paradigms.",
+            "constraints": {
+              "required": true
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#lexeme"
+          },
+          {
+            "name": "cell",
+            "type": "string",
+            "title": "Reference to a cell identifier",
+            "description": "The set of feature values as would appear in a gloss, separated by dots, eg. prs.ind.1sg or f.pl",
+            "constraints": {
+              "required": true
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#cell"
+          },
+          {
+            "name": "source_form",
+            "type": "string",
+            "title": "source form with verb stem and/or segmentation",
+            "description": "The form as provided in the source with the lexical verb stem (if relevant) and/or with segmentation according to orthography"
+          },
+          {
+            "name": "orth_form",
+            "type": "string",
+            "title": "Inflected form (orthographic)",
+            "description": "The form, given orthographically",
+            "missingValues": [
+              "#DEF#"
+            ],
+            "constraints": {
+              "pattern": "(m̩̀|ŋ̩̀|ŋ̩́|ɘ́ː|m̥|n̥|tʃ|àà|àá|àː|áá|áː|íː|ń̩|ǎː|ǹ̩|ʷù|ʷú|ḿ̩|d|g|h|k|m|n|r|s|t|v|à|á|è|é|ì|í|ù|ú|ŋ|ǎ|Ɂ|ɘ|ʔ|̀|́|̌|Σ|ḿ)+"
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#orth_form"
+          },
+          {
+            "name": "phon_form",
+            "type": "string",
+            "title": "Inflected form (phonemic or phonetic)",
+            "description": "The form, given in phonemic or phonetic notation, with sounds separated by spaces",
+            "missingValues": [
+              "#DEF#"
+            ],
+            "constraints": {
+              "pattern": "(m̥|m̩|n̥|n̩|tʃ|¹⁵|aa|ii|ɘɘ|d|g|h|k|m|n|r|s|t|v|ŋ|ʔ|¹|⁵|a|e|i|u|ɘ|ʉ|Σ)( (m̥|m̩|n̥|n̩|tʃ|¹⁵|aa|ii|ɘɘ|d|g|h|k|m|n|r|s|t|v|ŋ|ʔ|¹|⁵|a|e|i|u|ɘ|ʉ|Σ))*"
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#phon_form"
+          },
+          {
+            "name": "analysed_orth_form",
+            "type": "string",
+            "title": "Inflected form with analysis, such as segmentation markers (orthographic)",
+            "description": "The form, given orthographically, with markers for analysis.",
+            "missingValues": [
+              "#DEF#"
+            ],
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#analysed_orth_form"
+          },
+          {
+            "name": "analysed_phon_form",
+            "type": "string",
+            "title": "Inflected form with analysis, such as segmentation markers (phonemic or phonetic)",
+            "description": "The form, given in phonemic or phonetic notation, with sounds separated by spaces, and analysis markers.",
+            "missingValues": [
+              "#DEF#"
+            ],
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#analysed_phon_form"
+          },
+          {
+            "name": "paradigm_tag",
+            "type": "string",
+            "title": "tag for subparadigms",
+            "description": "Tag category that specifies subparadigms",
+            "constraints": {
+              "pattern": "(pragm_marked|unspec_var|default|emph|hort)(\\|(pragm_marked|unspec_var|default|emph|hort))*"
+            }
+          },
+          {
+            "name": "morphanalysis_tag",
+            "type": "any"
+          },
+          {
+            "name": "overabundance_tag",
+            "type": "string",
+            "title": "Tags for overabundant forms",
+            "description": "Identifies sets of overabundant forms. For example, overabundant forms across lexemes might belong to a series of regular and irregular forms, or a series of short and long forms, etc.",
+            "constraints": {
+              "pattern": "(optional_future|optional_plural)(\\|(optional_future|optional_plural))*"
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#overabundance_tag"
+          },
+          {
+            "name": "order_tag",
+            "type": "any"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "title": "Source",
+            "description": "Reference to a specific source (bibtex key). If used, the dataset should comprise a .bib file where the keys are referenced.",
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#source"
+          },
+          {
+            "name": "page",
+            "type": "string",
+            "title": "page number in source",
+            "description": "Indicates page number in source file (if known)"
+          },
+          {
+            "name": "language_id",
+            "type": "string",
+            "title": "language identifier",
+            "description": "Identifier for the language for comparison across PMST data sets"
+          }
+        ],
+        "primaryKey": [
+          "form_id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "cell"
+            ],
+            "reference": {
+              "resource": "cells",
+              "fields": [
+                "cell_id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "lexeme"
+            ],
+            "reference": {
+              "resource": "lexemes",
+              "fields": [
+                "lexeme_id"
+              ]
+            }
+          }
+        ]
+      },
+      "rdfType": "https://www.paralex-standard.org/paralex_ontology.xml#Form"
+    },
+    {
+      "name": "tags",
+      "type": "table",
+      "title": "Tags mark rows which have commonalities",
+      "path": "pmst-monsang_tags.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "name": "tags-schema",
+        "fields": [
+          {
+            "name": "tag_id",
+            "type": "string",
+            "title": "Tag id",
+            "description": "The label for a set of forms which have something in common.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "tag_column_name",
+            "type": "string",
+            "title": "Name of the tag column in the forms table",
+            "description": "The name of the column this tag is used in the forms table",
+            "constraints": {
+              "required": true,
+              "pattern": "[^ ]+_tag"
+            }
+          },
+          {
+            "name": "comment",
+            "type": "string",
+            "title": "Comment",
+            "description": "Human-readable comment.",
+            "rdfProperty": "http://www.w3.org/2000/01/rdf-schema#comment"
+          },
+          {
+            "name": "language_id",
+            "type": "string",
+            "title": "language identifier",
+            "description": "Identifier for the language for comparison across PMST data sets"
+          }
+        ],
+        "primaryKey": [
+          "tag_id"
+        ]
+      },
+      "rdfType": "https://www.paralex-standard.org/paralex_ontology.xml#Tag"
+    },
+    {
+      "name": "data_sheet",
+      "type": "text",
+      "title": "Data Sheet",
+      "description": "Data Sheet",
+      "path": "docs/data_sheet.md",
+      "scheme": "file",
+      "format": "md",
+      "mediatype": "text/markdown",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "morphs",
+      "type": "table",
+      "path": "pmst-monsang_morphs.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "morph_id",
+            "type": "string",
+            "title": "morph identifier",
+            "description": "Unique identifier for each morph"
+          },
+          {
+            "name": "morph",
+            "type": "string",
+            "title": "morph in IPA",
+            "description": "The morph given in tokenized IPA"
+          },
+          {
+            "name": "position",
+            "type": "string",
+            "title": "position of the morph",
+            "description": "The position of the morph with respect to the verb stem. Set to 'free' for pronouns"
+          },
+          {
+            "name": "in_cells",
+            "type": "string",
+            "title": "person-tam scenarios the morph appears in",
+            "description": "A list of person-TAM scenarios that the morph appears in separated by semicolon"
+          },
+          {
+            "name": "in_forms",
+            "type": "string",
+            "title": "forms the morph appears in",
+            "description": "A list of forms that the morph appears in separated by semicolon"
+          },
+          {
+            "name": "language_id",
+            "type": "string",
+            "title": "language identifier",
+            "description": "Identifier for the language for comparison across PMST data sets"
+          }
+        ],
+        "primaryKey": [
+          "morph_id"
+        ]
+      }
+    },
+    {
+      "name": "lexemes",
+      "type": "table",
+      "title": "Lexemes",
+      "path": "pmst-monsang_lexemes.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "name": "lexemes-schema",
+        "fields": [
+          {
+            "name": "lexeme_id",
+            "type": "string",
+            "title": "Identifier for the lexeme",
+            "description": "Lexeme identifiers. Often, they are identical to the label (lemma). However, they must be unique to paradigms, distinguishing homonyms with different inflection. For example, the animal mouse/mice and the computer peripheric mouse/mouses would both have the label 'mouse' but could be identified by the lexeme identifiers mouse_1 and mouse_2.",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "POS",
+            "type": "string",
+            "title": "Part of Speech",
+            "description": "The relevant part of speech for this item. This must refer to a PartOfSpeech entity from the lexinfo (https://lexinfo.net/) ontology.",
+            "constraints": {
+              "enum": [
+                "verb",
+                "numeral",
+                "conjunction",
+                "noun",
+                "adposition",
+                "determiner",
+                "article",
+                "adverb",
+                "pronoun",
+                "fusedPreposition",
+                "adjective",
+                "symbol",
+                "particle",
+                "conditionalParticle",
+                "demonstrativePronoun",
+                "interjection",
+                "semiColon",
+                "diminutiveNoun",
+                "possessivePronoun",
+                "prepositionalAdverb",
+                "compoundPreposition",
+                "interrogativeRelativePronoun",
+                "possessiveParticle",
+                "plainVerb",
+                "letter",
+                "interrogativeDeterminer",
+                "relativePronoun",
+                "postposition",
+                "fusedPronounAuxiliary",
+                "interrogativeOrdinalNumeral",
+                "indefiniteOrdinalNumeral",
+                "strongPersonalPronoun",
+                "possessiveRelativePronoun",
+                "ordinalAdjective",
+                "collectivePronoun",
+                "commonNoun",
+                "infinitiveParticle",
+                "comparativeParticle",
+                "partitiveArticle",
+                "invertedComma",
+                "lightVerb",
+                "emphaticPronoun",
+                "distinctiveParticle",
+                "genericNumeral",
+                "possessiveAdjective",
+                "reflexivePossessivePronoun",
+                "colon",
+                "coordinationParticle",
+                "presentParticipleAdjective",
+                "fusedPrepositionPronoun",
+                "cardinalNumeral",
+                "indefiniteDeterminer",
+                "numeralFraction",
+                "questionMark",
+                "generalAdverb",
+                "superlativeParticle",
+                "point",
+                "indefiniteMultiplicativeNumeral",
+                "comma",
+                "closeParenthesis",
+                "futureParticle",
+                "personalPronoun",
+                "reflexivePersonalPronoun",
+                "adverbialPronoun",
+                "reciprocalPronoun",
+                "openParenthesis",
+                "pastParticipleAdjective",
+                "negativePronoun",
+                "relativeDeterminer",
+                "existentialPronoun",
+                "pronominalAdverb",
+                "relativeParticle",
+                "exclamativeDeterminer",
+                "multiplicativeNumeral",
+                "reflexiveDeterminer",
+                "modal",
+                "unclassifiedParticle",
+                "properNoun",
+                "allusivePronoun",
+                "interrogativeCardinalNumeral",
+                "bullet",
+                "subordinatingConjunction",
+                "irreflexivePersonalPronoun",
+                "possessiveDeterminer",
+                "negativeParticle",
+                "indefinitePronoun",
+                "generalizationWord",
+                "coordinatingConjunction",
+                "deficientVerb",
+                "adjective-i",
+                "impersonalPronoun",
+                "indefiniteCardinalNumeral",
+                "adjective-na",
+                "qualifierAdjective",
+                "affirmativeParticle",
+                "mainVerb",
+                "fusedPrepositionDeterminer",
+                "indefiniteArticle",
+                "weakPersonalPronoun",
+                "suspensionPoints",
+                "interrogativeMultiplicativeNumeral",
+                "affixedPersonalPronoun",
+                "auxiliary",
+                "circumposition",
+                "copula",
+                "demonstrativeDeterminer",
+                "participleAdjective",
+                "exclamativePoint",
+                "interrogativePronoun",
+                "presentativePronoun",
+                "punctuation",
+                "definiteArticle",
+                "slash",
+                "exclamativePronoun",
+                "preposition",
+                "conditionalPronoun",
+                "relationNoun",
+                "interrogativeParticle"
+              ]
+            },
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#POS"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "title": "label for this row",
+            "description": "A human readable label for the row.",
+            "rdfProperty": "http://www.w3.org/2000/01/rdf-schema#label"
+          },
+          {
+            "name": "meaning",
+            "type": "string",
+            "title": "Definition for this lexeme",
+            "description": "This is a description of the lexeme's overall meaning.",
+            "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#meaning"
+          },
+          {
+            "name": "language_id",
+            "type": "string",
+            "title": "language identifier",
+            "description": "Identifier for the language for comparison across PMST data sets"
+          }
+        ],
+        "primaryKey": [
+          "lexeme_id"
+        ],
+        "foreignKeys": []
+      },
+      "rdfType": "https://www.paralex-standard.org/paralex_ontology.xml#Lexeme"
+    }
+  ],
+  "id": "http://dx.doi.org/10.5281/zenodo.<DOI>",
+  "languages_iso639": ["nmh"],
+  "paralex-version": "2.2.8"
+}

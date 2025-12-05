@@ -1,0 +1,31 @@
+sound_id,sound_clts,sound_phoible,label,CLTS_id,PHOIBLE_id,class,tone,stress,syllabic,short,long,consonantal,sonorant,continuant,delayedRelease,approximant,tap,trill,nasal,lateral,labial,round,labiodental,coronal,anterior,distributed,strident,dorsal,high,low,front,back,tense,retractedTongueRoot,advancedTongueRoot,periodicGlottalSource,epilaryngealSource,spreadGlottis,constrictedGlottis,fortis,raisedLarynxEjective,loweredLarynxImplosive,click,language_id
+d,d,d,voiced alveolar stop consonant,voiced_alveolar_stop_consonant,E6253384902D489FDB1FE487B7ED4AB2,consonant,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,monsang
+g,g,g,voiced velar stop consonant,voiced_velar_stop_consonant,ECC959553F23387998DAF88D69D7736C,consonant,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,-,0,0,0,+,+,-,-,-,0,0,0,+,-,-,-,-,-,-,-,monsang
+h,h,h,voiceless glottal fricative consonant,voiceless_glottal_fricative_consonant,E7FBD92350B3CA8B7B5D77E36A607068,consonant,0,-,-,-,-,-,-,+,+,-,-,-,-,-,-,0,0,-,0,0,0,-,0,0,0,0,0,0,0,-,-,+,-,-,-,-,-,monsang
+k,k,k,voiceless velar stop consonant,voiceless_velar_stop_consonant,5A838FF4DABE1950734CFAFAB9383903,consonant,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,-,0,0,0,+,+,-,-,-,0,0,0,-,-,-,-,-,-,-,-,monsang
+m,m,m,voiced bilabial nasal consonant,voiced_bilabial_nasal_consonant,5AE9663626770D1D4B97AAE5769AB83C,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,+,-,-,-,0,0,0,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,monsang
+m̥,m̥,m̥,devoiced voiced bilabial nasal consonant,devoiced_voiced_bilabial_nasal_consonant,3916F896B8FCC2F6FD583661E5332F28,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,+,-,-,-,0,0,0,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,monsang
+m̩,m̩,m̩,syllabic voiced bilabial nasal consonant,syllabic_voiced_bilabial_nasal_consonant,DB153A5121319488364F7931B81817A5,consonant,0,-,+,-,-,+,+,-,0,-,-,-,+,-,+,-,-,-,0,0,0,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,monsang
+n,n,n,voiced alveolar nasal consonant,voiced_alveolar_nasal_consonant,E03DA215BAB0A158BA5D1CB5C4D5D6FD,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,monsang
+n̥,n̥,n̥,devoiced voiced alveolar nasal consonant,devoiced_voiced_alveolar_nasal_consonant,1328DE7368EC9B18055FBBC5445E9307,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,monsang
+n̩,n̩,n̩,syllabic voiced alveolar nasal consonant,syllabic_voiced_alveolar_nasal_consonant,1A98C4788575E4A5B9BC24ABDAAAF566,consonant,0,-,+,-,-,+,+,-,0,-,-,-,+,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,monsang
+r,r,r,voiced alveolar trill consonant,voiced_alveolar_trill_consonant,5D1D7FB69E1A3C0C60001FBC0C19ED87,consonant,0,-,-,-,-,+,+,+,0,+,-,+,-,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,monsang
+s,s,s,voiceless alveolar sibilant fricative consonant,voiceless_alveolar_sibilant_fricative_consonant,7FF174469DAC4E61520F4E1610B2F088,consonant,0,-,-,-,-,+,-,+,+,-,-,-,-,-,-,0,0,+,+,-,+,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,monsang
+t,t,t,voiceless alveolar stop consonant,voiceless_alveolar_stop_consonant,9F90F95459807624A486F03FE5A89978,consonant,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,monsang
+tʃ,tʃ,t̠ʃ,voiceless post-alveolar sibilant affricate consonant,voiceless_post-alveolar_sibilant_affricate_consonant,1348048F53951A5E29ABA6D5360925BA,consonant,0,-,-,-,-,+,-,-,+,-,-,-,-,-,-,0,0,+,-,+,+,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,monsang
+v,v,v,voiced labio-dental fricative consonant,voiced_labio-dental_fricative_consonant,033ACAA664F151FC56BC9595526BCFA4,consonant,0,-,-,-,-,+,-,+,+,-,-,-,-,-,+,-,+,-,0,0,0,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,monsang
+ŋ,ŋ,ŋ,voiced velar nasal consonant,voiced_velar_nasal_consonant,941ED37AAF5E9C4E1B40D85008C6B2D9,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,-,0,0,-,0,0,0,+,+,-,-,-,0,0,0,+,-,-,-,-,-,-,-,monsang
+ʔ,ʔ,ʔ,voiceless glottal stop consonant,voiceless_glottal_stop_consonant,0844E3AEAF1C8E3837465942B92FE4C5,consonant,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,-,0,0,0,-,0,0,0,0,0,0,0,-,-,-,+,-,-,-,-,monsang
+¹,¹,˨,short from-low tone,short_from-low_tone,1C26A4A7D5F0697C7EA34BA73FC2F46E,tone,+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,monsang
+¹⁵,¹⁵,˨˦,rising from-low to-high tone,rising_from-low_to-high_tone,22EED960380C45E1FAF421D98727ABF2,tone,+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,monsang
+⁵,⁵,˦,short from-high tone,short_from-high_tone,0524CD95243C622D69973D187BC3F06F,tone,+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,monsang
+a,a,a,unrounded open front vowel,unrounded_open_front_vowel,72FB536ACFF408163656BBCDAFCAC6F6,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,-,+,-,-,0,-,-,+,-,-,-,0,-,-,0,monsang
+aa,aː,aː,long unrounded open front vowel,long_unrounded_open_front_vowel,2F272C9C5FA2DA70706B565B2DC46DE8,vowel,0,-,+,-,+,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,-,+,-,-,0,-,-,+,-,-,-,0,-,-,0,monsang
+e,e,e,unrounded close-mid front vowel,unrounded_close-mid_front_vowel,199408E3D0668F10F475143F0E8CC0CB,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,-,-,+,-,+,-,-,+,-,-,-,0,-,-,0,monsang
+i,i,i,unrounded close front vowel,unrounded_close_front_vowel,F0585BB57111C322D6E7DABB0D01F9EA,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,+,-,+,-,+,-,-,+,-,-,-,0,-,-,0,monsang
+ii,iː,iː,long unrounded close front vowel,long_unrounded_close_front_vowel,D7A90868F42885077FD3F44A8440B3BB,vowel,0,-,+,-,+,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,+,-,+,-,+,-,-,+,-,-,-,0,-,-,0,monsang
+u,u,u,rounded close back vowel,rounded_close_back_vowel,58EB693AE523323410326D60806B9ADF,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,+,+,-,-,0,0,0,+,+,-,-,+,+,-,-,+,-,-,-,0,-,-,0,monsang
+ɘ,ɘ,ɘ,unrounded close-mid central vowel,unrounded_close-mid_central_vowel,CEB8A516242B5E336874AC64E81D655E,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,-,-,-,-,+,-,-,+,-,-,-,0,-,-,0,monsang
+ɘɘ,ɘː,ɘː,long unrounded close-mid central vowel,long_unrounded_close-mid_central_vowel,E07CB8481F97B28F2D631830F02B51F0,vowel,0,-,+,-,+,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,-,-,-,-,+,-,-,+,-,-,-,0,-,-,0,monsang
+ʉ,ʉ,ʉ,rounded close central vowel,rounded_close_central_vowel,2CABD4F4B64695E5329B759A3F63C146,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,+,+,-,-,0,0,0,+,+,-,-,-,+,-,-,+,-,-,-,0,-,-,0,monsang
+Σ,Σ,Σ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,monsang

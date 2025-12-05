@@ -1,0 +1,147 @@
+title: "PMST-Monsang: Person Marking in Monsang (South-Central Trans-Himalayan)"
+files:
+  cells:
+    path: "pmst-monsang_cells.csv"
+    schema:
+       fields:
+       - name: "language_id"
+         type: "string"
+         title: "language identifier"
+         description: "Identifier for the language for comparison across PMST data sets"
+  lexemes:
+    path: "pmst-monsang_lexemes.csv"
+    schema:
+       fields:
+       - name: "language_id"
+         type: "string"
+         title: "language identifier"
+         description: "Identifier for the language for comparison across PMST data sets"
+  forms:
+    path: "pmst-monsang_forms.csv"
+    schema:
+       fields:
+       - name: "source_form"
+         type: "string"
+         title: "source form with verb stem and/or segmentation"
+         description: "The form as provided in the source with the lexical verb stem (if relevant) and/or with segmentation according to orthography"
+       - name: "paradigm_tag"
+         type: "string"
+         title: "tag for subparadigms"
+         description: "Tag category that specifies subparadigms"
+       - name: "page"
+         type: "string"
+         title: "page number in source"
+         description: "Indicates page number in source file (if known)"
+       - name: "language_id"
+         type: "string"
+         title: "language identifier"
+         description: "Identifier for the language for comparison across PMST data sets"
+  morphs:
+    path: "pmst-monsang_morphs.csv"
+    schema:
+       primaryKey: morph_id
+       fields:
+       - name: "morph_id"
+         type: "string"
+         title: "morph identifier"
+         description: "Unique identifier for each morph"
+       - name: "morph"
+         type: "string"
+         title: "morph in IPA"
+         description: "The morph given in tokenized IPA"
+       - name: "position"
+         type: "string"
+         title: "position of the morph"
+         description: "The position of the morph with respect to the verb stem. Set to 'free' for pronouns"
+       - name: "in_cells"
+         type: "string"
+         title: "person-tam scenarios the morph appears in"
+         description: "A list of person-TAM scenarios that the morph appears in separated by semicolon"
+       - name: "in_forms"
+         type: "string"
+         title: "forms the morph appears in"
+         description: "A list of forms that the morph appears in separated by semicolon"
+       - name: "language_id"
+         type: "string"
+         title: "language identifier"
+         description: "Identifier for the language for comparison across PMST data sets"
+  tags:
+    path: "pmst-monsang_tags.csv"
+    schema:
+       fields:
+       - name: "language_id"
+         type: "string"
+         title: "language identifier"
+         description: "Identifier for the language for comparison across PMST data sets"
+  features-values:
+    path: "pmst-monsang_features.csv"
+    schema:
+       fields:
+       - name: "language_id"
+         type: "string"
+         title: "language identifier"
+         description: "Identifier for the language for comparison across PMST data sets"
+  sounds:
+    path: "pmst-monsang_sounds.csv"
+    schema:
+       fields:
+       - name: "sound_clts"
+         type: "string"
+         title: "phoneme representation in CLTS"
+         description: "Alternative IPA representation of phoneme needed for linking with CLTS"
+       - name: "sound_phoible"
+         type: "string"
+         title: "phoneme representation in PHOIBLE"
+         description: "Alternative IPA representation of phoneme needed for linking with PHOIBLE"
+       - name: "class"
+         type: "string"
+         title: "class of the sound"
+         description: "Classifies the sound as vowel, consonant, or tone"
+       - name: "language_id"
+         type: "string"
+         title: "language identifier"
+         description: "Identifier for the language for comparison across PMST data sets"
+  graphemes:
+    path: "pmst-monsang_graphemes.csv"
+    schema:
+       fields:
+       - name: "language_id"
+         type: "string"
+         title: "language identifier"
+         description: "Identifier for the language for comparison across PMST data sets"
+  sources:
+    path: "sources.bib"
+  readme:
+    path: "readme.md"
+  data_sheet:
+    path: "docs/data_sheet.md"
+version: "1.0.0"
+id: http://dx.doi.org/10.5281/zenodo.<DOI>
+keywords:
+- Monsang
+- paradigms
+- person marking
+- paralex
+
+# List the contributors
+# contributors:
+# - roles: ["author", "dataCurator"]
+#   title: "<YOUR NAME>"
+#   path: "https://orcid.org/<ORCID>"
+#   organization: "<AFFILIATION>"
+
+# You can list sources
+# sources:
+# - title: "Name of the source"
+#   path: "<URL>"
+# The homepage where you will deploy your repository.
+# homepage: "https://<REPOSITORY>.gitlab.io/"
+
+# Set a license for your dataset:
+licenses:
+ - name: "CC-BY-SA-4.0"
+   title: "Creative Commons Attribution Share-Alike 4.0"
+   path: "https://creativecommons.org/licenses/by-sa/4.0/"
+
+# Name of your dataset
+name: 'pmst-monsang'

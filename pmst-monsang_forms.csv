@@ -1,0 +1,337 @@
+form_id,lexeme,cell,source_form,orth_form,phon_form,analysed_orth_form,analysed_phon_form,paradigm_tag,morphanalysis_tag,overabundance_tag,order_tag,source,page,language_id
+monsang001,no_stem,1.sg,kɘ́,kɘ́,k ɘ ⁵,kɘ́,k ɘ ⁵,default,,,,Konnerth2025Monsang,1,monsang
+monsang002,no_stem,1.pl.excl,kín-n-ʷú,kínnʷú,k i ⁵ n n ʉ ⁵,kín+n+ʷú,k i ⁵ n + n + ʉ ⁵,default,,,,Konnerth2025Monsang,1,monsang
+monsang003,no_stem,1.pl.incl,ì-n-ʷù,ìnʷù,i ¹ n ʉ ¹,ì+n+ʷù,i ¹ + n + ʉ ¹,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang004,no_stem,1.pl.incl,í-n-ʷú,ínʷú,i ⁵ n ʉ ⁵,í+n+ʷú,i ⁵ + n + ʉ ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang005,no_stem,1.pl.incl,í-nɘ́,ínɘ́,i ⁵ n ɘ ⁵,í+nɘ́,i ⁵ + n ɘ ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang006,no_stem,1.pl.incl,ì-nɘ̀,ìnɘ̀,i ¹ n ɘ ¹,ì+nɘ̀,i ¹ + n ɘ ¹,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang007,no_stem,1.pl.incl,ń̩-n-ʷú,ń̩nʷú,n̩ ⁵ n ʉ ⁵,ń̩+n+ʷú,n̩ ⁵ + n + ʉ ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang008,no_stem,2.sg,náŋ,náŋ,n a ⁵ ŋ,náŋ,n a ⁵ ŋ,default,,,,Konnerth2025Monsang,1,monsang
+monsang009,no_stem,2.pl,nín-n-ʷú,nínnʷú,n i ⁵ n n ʉ ⁵,nín+n+ʷú,n i ⁵ n + n + ʉ ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang010,no_stem,2.pl,níŋ-n-ʷú,níŋnʷú,n i ⁵ ŋ n ʉ ⁵,níŋ+n+ʷú,n i ⁵ ŋ + n + ʉ ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang011,no_stem,3.sg,á-má,ámá,a ⁵ m a ⁵,á+má,a ⁵ + m a ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang012,no_stem,3.sg,á-mà,ámà,a ⁵ m a ¹,á+mà,a ⁵ + m a ¹,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang013,no_stem,3.pl,í-nʷú,ínʷú,i ⁵ n ʉ ⁵,í+nʷú,i ⁵ + n ʉ ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang014,no_stem,3.pl,ḿ̩-mé-nɘ̀,ḿ̩ménɘ̀,m̩ ⁵ m e ⁵ n ɘ ¹,ḿ̩+mé+nɘ̀,m̩ ⁵ + m e ⁵ + n ɘ ¹,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang015,no_stem,3.pl,ḿ̩-mé-nɘ́,ḿ̩ménɘ́,m̩ ⁵ m e ⁵ n ɘ ⁵,ḿ̩+mé+nɘ́,m̩ ⁵ + m e ⁵ + n ɘ ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang016,no_stem,3.pl,ń̩-nʷú,ń̩nʷú,n̩ ⁵ n ʉ ⁵,ń̩+nʷú,n̩ ⁵ + n ʉ ⁵,unspec_var,,,,Konnerth2025Monsang,1,monsang
+monsang017,si,1.sg.fut.aff,sí-váŋ-kí-tè,Σváŋkítè,Σ v a ⁵ ŋ k i ⁵ t e ¹,Σ+váŋ+kí+tè,Σ + v a ⁵ ŋ + k i ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang018,si,1.sg.fut.aff,sí-váŋ-gé-tè,Σváŋgétè,Σ v a ⁵ ŋ g e ⁵ t e ¹,Σ+váŋ+gé+tè,Σ + v a ⁵ ŋ + g e ⁵ + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang019,si,1.pl.excl.fut.aff,sí-váŋ-kíŋ-tè,Σváŋkíŋtè,Σ v a ⁵ ŋ k i ⁵ ŋ t e ¹,Σ+váŋ+kíŋ+tè,Σ + v a ⁵ ŋ + k i ⁵ ŋ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang020,si,1.pl.excl.fut.aff,sí-váŋ-kín-tè,Σváŋkíntè,Σ v a ⁵ ŋ k i ⁵ n t e ¹,Σ+váŋ+kín+tè,Σ + v a ⁵ ŋ + k i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang021,si,1.pl.excl.fut.aff,sí-váŋ-gín-tè,Σváŋgíntè,Σ v a ⁵ ŋ g i ⁵ n t e ¹,Σ+váŋ+gín+tè,Σ + v a ⁵ ŋ + g i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang022,si,1.pl.excl.fut.aff,sí-váŋ-gíŋ-tè,Σváŋgíŋtè,Σ v a ⁵ ŋ g i ⁵ ŋ t e ¹,Σ+váŋ+gíŋ+tè,Σ + v a ⁵ ŋ + g i ⁵ ŋ + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang023,si,1.pl.incl.fut.aff,sí-vá-té-r-ʷù,Σvátérʷù,Σ v a ⁵ t e ⁵ r ʉ ¹,Σ+vá+té+r+ʷù,Σ + v a ⁵ + t e ⁵ + r + ʉ ¹,hort,,,,Konnerth2025Monsang,nopage,monsang
+monsang024,mu,1.sg.2.sg.fut.aff,m̥ú-váŋ-ké-tʃɘ̀,Σváŋkétʃɘ̀,Σ v a ⁵ ŋ k e ⁵ tʃ ɘ ¹,Σ+váŋ+ké+tʃɘ̀,Σ + v a ⁵ ŋ + k e ⁵ + tʃ ɘ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang025,mu,1.sg.2.sg.fut.aff,m̥ú-váŋ-kí-té-ké-tʃɘ̀,Σváŋkítékétʃɘ̀,Σ v a ⁵ ŋ k i ⁵ t e ⁵ k e ⁵ tʃ ɘ ¹,Σ+váŋ+kí+té+ké+tʃɘ̀,Σ + v a ⁵ ŋ + k i ⁵ + t e ⁵ + k e ⁵ + tʃ ɘ ¹,pragm_marked,,,,Konnerth2025Monsang,nopage,monsang
+monsang026,mu,1.sg.2.sg.fut.aff,m̥ú-váŋ-gé-té-gé-tʃɘ̀,Σváŋgétégétʃɘ̀,Σ v a ⁵ ŋ g e ⁵ t e ⁵ g e ⁵ tʃ ɘ ¹,Σ+váŋ+gé+té+gé+tʃɘ̀,Σ + v a ⁵ ŋ + g e ⁵ + t e ⁵ + g e ⁵ + tʃ ɘ ¹,pragm_marked,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang027,mu,1.sg.2.sg.fut.aff,m̥ú-váŋ-gé-tʃɘ̀,Σváŋgétʃɘ̀,Σ v a ⁵ ŋ g e ⁵ tʃ ɘ ¹,Σ+váŋ+gé+tʃɘ̀,Σ + v a ⁵ ŋ + g e ⁵ + tʃ ɘ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang028,mu,1.sg.2.pl.fut.aff,m̥ú-váŋ-ké-tʃ-ʷù,Σváŋkétʃʷù,Σ v a ⁵ ŋ k e ⁵ tʃ ʉ ¹,Σ+váŋ+ké+tʃ+ʷù,Σ + v a ⁵ ŋ + k e ⁵ + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang029,mu,1.sg.2.pl.fut.aff,m̥ú-váŋ-kí-té-ké-tʃ-ʷù,Σváŋkítékétʃʷù,Σ v a ⁵ ŋ k i ⁵ t e ⁵ k e ⁵ tʃ ʉ ¹,Σ+váŋ+kí+té+ké+tʃ+ʷù,Σ + v a ⁵ ŋ + k i ⁵ + t e ⁵ + k e ⁵ + tʃ + ʉ ¹,pragm_marked,,,,Konnerth2025Monsang,nopage,monsang
+monsang030,mu,1.sg.2.pl.fut.aff,m̥ú-váŋ-gé-té-gé-tʃ-ʷù,Σváŋgétégétʃʷù,Σ v a ⁵ ŋ g e ⁵ t e ⁵ g e ⁵ tʃ ʉ ¹,Σ+váŋ+gé+té+gé+tʃ+ʷù,Σ + v a ⁵ ŋ + g e ⁵ + t e ⁵ + g e ⁵ + tʃ + ʉ ¹,pragm_marked,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang031,mu,1.sg.2.pl.fut.aff,m̥ú-váŋ-gé-tʃ-ʷù,Σváŋgétʃʷù,Σ v a ⁵ ŋ g e ⁵ tʃ ʉ ¹,Σ+váŋ+gé+tʃ+ʷù,Σ + v a ⁵ ŋ + g e ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang032,mu,1.pl.excl.2.sg.fut.aff,m̥ú-váŋ-kín-tʃɘ̀,Σváŋkíntʃɘ̀,Σ v a ⁵ ŋ k i ⁵ n tʃ ɘ ¹,Σ+váŋ+kín+tʃɘ̀,Σ + v a ⁵ ŋ + k i ⁵ n + tʃ ɘ ¹,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang033,mu,1.pl.excl.2.sg.fut.aff,m̥ú-váŋ-kín-tʃ-ʷù,Σváŋkíntʃʷù,Σ v a ⁵ ŋ k i ⁵ n tʃ ʉ ¹,Σ+váŋ+kín+tʃ+ʷù,Σ + v a ⁵ ŋ + k i ⁵ n + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang034,mu,1.pl.excl.2.sg.fut.aff,m̥ú-váŋ-gín-tʃ-ʷù,Σváŋgíntʃʷù,Σ v a ⁵ ŋ g i ⁵ n tʃ ʉ ¹,Σ+váŋ+gín+tʃ+ʷù,Σ + v a ⁵ ŋ + g i ⁵ n + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang035,mu,1.pl.excl.2.sg.fut.aff,m̥ú-váŋ-kín-té-kín-tʃ-ʷù,Σváŋkíntékíntʃʷù,Σ v a ⁵ ŋ k i ⁵ n t e ⁵ k i ⁵ n tʃ ʉ ¹,Σ+váŋ+kín+té+kín+tʃ+ʷù,Σ + v a ⁵ ŋ + k i ⁵ n + t e ⁵ + k i ⁵ n + tʃ + ʉ ¹,pragm_marked,,,,Konnerth2025Monsang,nopage,monsang
+monsang036,mu,1.pl.excl.2.sg.fut.aff,m̥ú-váŋ-gín-té-gín-tʃ-ʷù,Σváŋgíntégíntʃʷù,Σ v a ⁵ ŋ g i ⁵ n t e ⁵ g i ⁵ n tʃ ʉ ¹,Σ+váŋ+gín+té+gín+tʃ+ʷù,Σ + v a ⁵ ŋ + g i ⁵ n + t e ⁵ + g i ⁵ n + tʃ + ʉ ¹,pragm_marked,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang037,mu,1.pl.excl.2.sg.fut.aff,m̥ú-váŋ-kín-té-kín-tʃɘ̀,Σváŋkíntékíntʃɘ̀,Σ v a ⁵ ŋ k i ⁵ n t e ⁵ k i ⁵ n tʃ ɘ ¹,Σ+váŋ+kín+té+kín+tʃɘ̀,Σ + v a ⁵ ŋ + k i ⁵ n + t e ⁵ + k i ⁵ n + tʃ ɘ ¹,pragm_marked,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang038,mu,1.pl.excl.2.sg.fut.aff,m̥ú-váŋ-gín-té-gín-tʃɘ̀,Σváŋgíntégíntʃɘ̀,Σ v a ⁵ ŋ g i ⁵ n t e ⁵ g i ⁵ n tʃ ɘ ¹,Σ+váŋ+gín+té+gín+tʃɘ̀,Σ + v a ⁵ ŋ + g i ⁵ n + t e ⁵ + g i ⁵ n + tʃ ɘ ¹,pragm_marked,morphophon,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang039,mu,1.pl.excl.2.sg.fut.aff,m̥ú-váŋ-gín-tʃɘ̀,Σváŋgíntʃɘ̀,Σ v a ⁵ ŋ g i ⁵ n tʃ ɘ ¹,Σ+váŋ+gín+tʃɘ̀,Σ + v a ⁵ ŋ + g i ⁵ n + tʃ ɘ ¹,,morphophon,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang040,mu,1.pl.excl.2.pl.fut.aff,m̥ú-váŋ-kín-tʃ-ʷù,Σváŋkíntʃʷù,Σ v a ⁵ ŋ k i ⁵ n tʃ ʉ ¹,Σ+váŋ+kín+tʃ+ʷù,Σ + v a ⁵ ŋ + k i ⁵ n + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang041,mu,1.pl.excl.2.pl.fut.aff,m̥ú-váŋ-gín-tʃ-ʷù,Σváŋgíntʃʷù,Σ v a ⁵ ŋ g i ⁵ n tʃ ʉ ¹,Σ+váŋ+gín+tʃ+ʷù,Σ + v a ⁵ ŋ + g i ⁵ n + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang042,mu,1.pl.excl.2.pl.fut.aff,m̥ú-váŋ-kín-té-kín-tʃ-ʷù,Σváŋkíntékíntʃʷù,Σ v a ⁵ ŋ k i ⁵ n t e ⁵ k i ⁵ n tʃ ʉ ¹,Σ+váŋ+kín+té+kín+tʃ+ʷù,Σ + v a ⁵ ŋ + k i ⁵ n + t e ⁵ + k i ⁵ n + tʃ + ʉ ¹,pragm_marked,,,,Konnerth2025Monsang,nopage,monsang
+monsang043,mu,1.pl.excl.2.pl.fut.aff,m̥ú-váŋ-gín-té-gín-tʃ-ʷù,Σváŋgíntégíntʃʷù,Σ v a ⁵ ŋ g i ⁵ n t e ⁵ g i ⁵ n tʃ ʉ ¹,Σ+váŋ+gín+té+gín+tʃ+ʷù,Σ + v a ⁵ ŋ + g i ⁵ n + t e ⁵ + g i ⁵ n + tʃ + ʉ ¹,pragm_marked,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang044,mu,1.sg.3.sg.fut.aff,m̥ú-váŋ-kí-tè,Σváŋkítè,Σ v a ⁵ ŋ k i ⁵ t e ¹,Σ+váŋ+kí+tè,Σ + v a ⁵ ŋ + k i ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang045,mu,1.sg.3.sg.fut.aff,m̥ú-váŋ-gé-tè,Σváŋgétè,Σ v a ⁵ ŋ g e ⁵ t e ¹,Σ+váŋ+gé+tè,Σ + v a ⁵ ŋ + g e ⁵ + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang046,mu,1.sg.3.pl.fut.aff,m̥ú-hé-ŋ-kí-tè,Σhéŋkítè,Σ h e ⁵ ŋ k i ⁵ t e ¹,Σ+hé+ŋ+kí+tè,Σ + h e ⁵ + ŋ + k i ⁵ + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang047,mu,1.sg.3.pl.fut.aff,m̥ú-hé-váŋ-kí-tè,Σhéváŋkítè,Σ h e ⁵ v a ⁵ ŋ k i ⁵ t e ¹,Σ+hé+váŋ+kí+tè,Σ + h e ⁵ + v a ⁵ ŋ + k i ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang048,mu,1.sg.3.pl.fut.aff,m̥ú-hé-ŋ-gé-tè,Σhéŋgétè,Σ h e ⁵ ŋ g e ⁵ t e ¹,Σ+hé+ŋ+gé+tè,Σ + h e ⁵ + ŋ + g e ⁵ + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang049,mu,1.sg.3.pl.fut.aff,m̥ú-hé-váŋ-gé-tè,Σhéváŋgétè,Σ h e ⁵ v a ⁵ ŋ g e ⁵ t e ¹,Σ+hé+váŋ+gé+tè,Σ + h e ⁵ + v a ⁵ ŋ + g e ⁵ + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang050,mu,1.pl.excl.3.sg.fut.aff,m̥ú-váŋ-kín-tè,Σváŋkíntè,Σ v a ⁵ ŋ k i ⁵ n t e ¹,Σ+váŋ+kín+tè,Σ + v a ⁵ ŋ + k i ⁵ n + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang051,mu,1.pl.excl.3.sg.fut.aff,m̥ú-váŋ-gín-tè,Σváŋgíntè,Σ v a ⁵ ŋ g i ⁵ n t e ¹,Σ+váŋ+gín+tè,Σ + v a ⁵ ŋ + g i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang052,mu,1.pl.incl.3.sg.fut.aff,m̥ú-váŋ-í-tè-kà,Σváŋítèkà,Σ v a ⁵ ŋ i ⁵ t e ¹ k a ¹,Σ+váŋ+í+tè+kà,Σ + v a ⁵ ŋ + i ⁵ + t e ¹ + k a ¹,emph,,,,Konnerth2025Monsang,nopage,monsang
+monsang053,mu,1.pl.incl.3.sg.fut.aff,m̥ú-vá-tè,Σvátè,Σ v a ⁵ t e ¹,Σ+vá+tè,Σ + v a ⁵ + t e ¹,hort,,,,Konnerth2025Monsang,nopage,monsang
+monsang054,mu,1.pl.excl.3.pl.fut.aff,m̥ú-hé-váŋ-kín-tè,Σhéváŋkíntè,Σ h e ⁵ v a ⁵ ŋ k i ⁵ n t e ¹,Σ+hé+váŋ+kín+tè,Σ + h e ⁵ + v a ⁵ ŋ + k i ⁵ n + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang055,mu,1.pl.excl.3.pl.fut.aff,m̥ú-hé-ŋ-kín-tè,Σhéŋkíntè,Σ h e ⁵ ŋ k i ⁵ n t e ¹,Σ+hé+ŋ+kín+tè,Σ + h e ⁵ + ŋ + k i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang056,mu,1.pl.excl.3.pl.fut.aff,m̥ú-hé-ŋ-gín-tè,Σhéŋgíntè,Σ h e ⁵ ŋ g i ⁵ n t e ¹,Σ+hé+ŋ+gín+tè,Σ + h e ⁵ + ŋ + g i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang057,mu,1.pl.excl.3.pl.fut.aff,m̥ú-hé-váŋ-gín-tè,Σhéváŋgíntè,Σ h e ⁵ v a ⁵ ŋ g i ⁵ n t e ¹,Σ+hé+váŋ+gín+tè,Σ + h e ⁵ + v a ⁵ ŋ + g i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang058,mu,1.pl.incl.3.pl.fut.aff,m̥ú-hé-váŋ-í-tè-kà,Σhéváŋítèkà,Σ h e ⁵ v a ⁵ ŋ i ⁵ t e ¹ k a ¹,Σ+hé+váŋ+í+tè+kà,Σ + h e ⁵ + v a ⁵ ŋ + i ⁵ + t e ¹ + k a ¹,emph,,,,Konnerth2025Monsang,nopage,monsang
+monsang059,mu,1.pl.incl.3.pl.fut.aff,m̥ú-hé-ŋ-í-tè-kà,Σhéŋítèkà,Σ h e ⁵ ŋ i ⁵ t e ¹ k a ¹,Σ+hé+ŋ+í+tè+kà,Σ + h e ⁵ + ŋ + i ⁵ + t e ¹ + k a ¹,emph,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang060,mu,1.pl.incl.3.pl.fut.aff,m̥ú-vá-tè-r-ʷù,Σvátèrʷù,Σ v a ⁵ t e ¹ r ʉ ¹,Σ+vá+tè+r+ʷù,Σ + v a ⁵ + t e ¹ + r + ʉ ¹,hort,,,,Konnerth2025Monsang,nopage,monsang
+monsang061,si,2.sg.fut.aff,sí-váŋ-ná-tè,Σváŋnátè,Σ v a ⁵ ŋ n a ⁵ t e ¹,Σ+váŋ+ná+tè,Σ + v a ⁵ ŋ + n a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang062,si,2.pl.fut.aff,sí-váŋ-níŋ-tè,Σváŋníŋtè,Σ v a ⁵ ŋ n i ⁵ ŋ t e ¹,Σ+váŋ+níŋ+tè,Σ + v a ⁵ ŋ + n i ⁵ ŋ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang063,si,2.pl.fut.aff,sí-váŋ-nín-tè,Σváŋníntè,Σ v a ⁵ ŋ n i ⁵ n t e ¹,Σ+váŋ+nín+tè,Σ + v a ⁵ ŋ + n i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang064,mu,2.sg.1.sg.fut.aff,ì-m̥ú-váŋ-ná-tè,ìΣváŋnátè,i ¹ Σ v a ⁵ ŋ n a ⁵ t e ¹,ì+Σ+váŋ+ná+tè,i ¹ + Σ + v a ⁵ ŋ + n a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang065,mu,2.sg.1.pl.excl.fut.aff,ì-m̥ú-váŋ-ná-tè,ìΣváŋnátè,i ¹ Σ v a ⁵ ŋ n a ⁵ t e ¹,ì+Σ+váŋ+ná+tè,i ¹ + Σ + v a ⁵ ŋ + n a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang066,mu,2.pl.1.sg.fut.aff,ì-m̥ú-váŋ-níŋ-tè,ìΣváŋníŋtè,i ¹ Σ v a ⁵ ŋ n i ⁵ ŋ t e ¹,ì+Σ+váŋ+níŋ+tè,i ¹ + Σ + v a ⁵ ŋ + n i ⁵ ŋ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang067,mu,2.pl.1.sg.fut.aff,ì-m̥ú-váŋ-níŋ-tè,ìΣváŋníntè,i ¹ Σ v a ⁵ ŋ n i ⁵ n t e ¹,ì+Σ+váŋ+nín+tè,i ¹ + Σ + v a ⁵ ŋ + n i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang068,mu,2.pl.1.pl.excl.fut.aff,ì-m̥ú-váŋ-níŋ-tè,ìΣváŋníŋtè,i ¹ Σ v a ⁵ ŋ n i ⁵ ŋ t e ¹,ì+Σ+váŋ+níŋ+tè,i ¹ + Σ + v a ⁵ ŋ + n i ⁵ ŋ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang069,mu,2.pl.1.pl.excl.fut.aff,ì-m̥ú-váŋ-níŋ-tè,ìΣváŋníntè,i ¹ Σ v a ⁵ ŋ n i ⁵ n t e ¹,ì+Σ+váŋ+nín+tè,i ¹ + Σ + v a ⁵ ŋ + n i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang070,mu,2.sg.3.sg.fut.aff,m̥ú-váŋ-ná-tè,Σváŋnátè,Σ v a ⁵ ŋ n a ⁵ t e ¹,Σ+váŋ+ná+tè,Σ + v a ⁵ ŋ + n a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang071,mu,2.sg.3.pl.fut.aff,m̥ú-hé-váŋ-ná-tè,Σhéváŋnátè,Σ h e ⁵ v a ⁵ ŋ n a ⁵ t e ¹,Σ+hé+váŋ+ná+tè,Σ + h e ⁵ + v a ⁵ ŋ + n a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang072,mu,2.sg.3.pl.fut.aff,m̥ú-hé-ŋ-ná-tè,Σhéŋnátè,Σ h e ⁵ ŋ n a ⁵ t e ¹,Σ+hé+ŋ+ná+tè,Σ + h e ⁵ + ŋ + n a ⁵ + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang073,mu,2.pl.3.sg.fut.aff,m̥ú-váŋ-níŋ-tè,Σváŋníŋtè,Σ v a ⁵ ŋ n i ⁵ ŋ t e ¹,Σ+váŋ+níŋ+tè,Σ + v a ⁵ ŋ + n i ⁵ ŋ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang074,mu,2.pl.3.sg.fut.aff,m̥ú-váŋ-nín-tè,Σváŋníntè,Σ v a ⁵ ŋ n i ⁵ n t e ¹,Σ+váŋ+nín+tè,Σ + v a ⁵ ŋ + n i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang075,mu,2.pl.3.pl.fut.aff,m̥ú-hé-váŋ-níŋ-tè,Σhéváŋníŋtè,Σ h e ⁵ v a ⁵ ŋ n i ⁵ ŋ t e ¹,Σ+hé+váŋ+níŋ+tè,Σ + h e ⁵ + v a ⁵ ŋ + n i ⁵ ŋ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang076,mu,2.pl.3.pl.fut.aff,m̥ú-hé-váŋ-nín-tè,Σhéváŋníntè,Σ h e ⁵ v a ⁵ ŋ n i ⁵ n t e ¹,Σ+hé+váŋ+nín+tè,Σ + h e ⁵ + v a ⁵ ŋ + n i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang077,mu,2.pl.3.pl.fut.aff,m̥ú-hé-ŋ-nín-tè,Σhéŋníntè,Σ h e ⁵ ŋ n i ⁵ n t e ¹,Σ+hé+ŋ+nín+tè,Σ + h e ⁵ + ŋ + n i ⁵ n + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang078,mu,2.pl.3.pl.fut.aff,m̥ú-hé-ŋ-níŋ-tè,Σhéŋníŋtè,Σ h e ⁵ ŋ n i ⁵ ŋ t e ¹,Σ+hé+ŋ+níŋ+tè,Σ + h e ⁵ + ŋ + n i ⁵ ŋ + t e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang079,kar,3.sg.fut.aff,kàr-vá-tè,Σvátè,Σ v a ⁵ t e ¹,Σ+vá+tè,Σ + v a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang080,kar,3.pl.fut.aff,kàr-vá-té-hè,Σvátéhè,Σ v a ⁵ t e ⁵ h e ¹,Σ+vá+té+hè,Σ + v a ⁵ + t e ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang081,mu,3.sg.1.sg.fut.aff,ì-m̥ú-vá-tè,ìΣvátè,i ¹ Σ v a ⁵ t e ¹,ì+Σ+vá+tè,i ¹ + Σ + v a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang082,mu,3.sg.1.pl.excl.fut.aff,ì-m̥ú-vá-tè,ìΣvátè,i ¹ Σ v a ⁵ t e ¹,ì+Σ+vá+tè,i ¹ + Σ + v a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang083,mu,3.sg.1.pl.incl.fut.aff,ì-m̥ú-vá-tè,ìΣvátè,i ¹ Σ v a ⁵ t e ¹,ì+Σ+vá+tè,i ¹ + Σ + v a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang084,mu,3.pl.1.sg.fut.aff,ì-m̥ú-vá-tè-hè,ìΣvátèhè,i ¹ Σ v a ⁵ t e ¹ h e ¹,ì+Σ+vá+tè+hè,i ¹ + Σ + v a ⁵ + t e ¹ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang085,mu,3.pl.1.sg.fut.aff,ì-m̥ú-hé-tè,ìΣhétè,i ¹ Σ h e ⁵ t e ¹,ì+Σ+hé+tè,i ¹ + Σ + h e ⁵ + t e ¹,,,optional_future,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang086,mu,3.pl.1.pl.excl.fut.aff,ì-m̥ú-vá-tè-hè,ìΣvátèhè,i ¹ Σ v a ⁵ t e ¹ h e ¹,ì+Σ+vá+tè+hè,i ¹ + Σ + v a ⁵ + t e ¹ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang087,mu,3.pl.1.pl.excl.fut.aff,ì-m̥ú-hè-tè,ìΣhétè,i ¹ Σ h e ⁵ t e ¹,ì+Σ+hé+tè,i ¹ + Σ + h e ⁵ + t e ¹,,,optional_future,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang088,mu,3.pl.1.pl.incl.fut.aff,ì-m̥ú-vá-tè-hè,ìΣvátèhè,i ¹ Σ v a ⁵ t e ¹ h e ¹,ì+Σ+vá+tè+hè,i ¹ + Σ + v a ⁵ + t e ¹ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang089,mu,3.pl.1.pl.incl.fut.aff,ì-m̥ú-hé-tè,ìΣhétè,i ¹ Σ h e ⁵ t e ¹,ì+Σ+hé+tè,i ¹ + Σ + h e ⁵ + t e ¹,,,optional_future,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang090,mu,3.sg.2.sg.fut.aff,ì-m̥ú-vá-tè,ìΣvátè,i ¹ Σ v a ⁵ t e ¹,ì+Σ+vá+tè,i ¹ + Σ + v a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang091,mu,3.sg.2.pl.fut.aff,ì-m̥ú-vá-tè,ìΣvátè,i ¹ Σ v a ⁵ t e ¹,ì+Σ+vá+tè,i ¹ + Σ + v a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang092,mu,3.pl.2.sg.fut.aff,ì-m̥ú-vá-tè-hè,ìΣvátèhè,i ¹ Σ v a ⁵ t e ¹ h e ¹,ì+Σ+vá+tè+hè,i ¹ + Σ + v a ⁵ + t e ¹ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang093,mu,3.pl.2.sg.fut.aff,ì-m̥ú-hé-tè,ìΣhétè,i ¹ Σ h e ⁵ t e ¹,ì+Σ+hé+tè,i ¹ + Σ + h e ⁵ + t e ¹,,,optional_future,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang094,mu,3.pl.2.pl.fut.aff,ì-m̥ú-vá-tè-hè,ìΣvátèhè,i ¹ Σ v a ⁵ t e ¹ h e ¹,ì+Σ+vá+tè+hè,i ¹ + Σ + v a ⁵ + t e ¹ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang095,mu,3.pl.2.pl.fut.aff,ì-m̥ú-hé-tè,ìΣhétè,i ¹ Σ h e ⁵ t e ¹,ì+Σ+hé+tè,i ¹ + Σ + h e ⁵ + t e ¹,,,optional_future,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang096,mu,3.sg.3.sg.fut.aff,m̥ú-vá-tè,Σvátè,Σ v a ⁵ t e ¹,Σ+vá+tè,Σ + v a ⁵ + t e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang097,mu,3.sg.3.pl.fut.aff,m̥ú-vá-tè-hè,Σvátèhè,Σ v a ⁵ t e ¹ h e ¹,Σ+vá+tè+hè,Σ + v a ⁵ + t e ¹ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang098,mu,3.sg.3.pl.fut.aff,m̥ú-hé-tè,Σhétè,Σ h e ⁵ t e ¹,Σ+hé+tè,Σ + h e ⁵ + t e ¹,,,optional_future,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang099,mu,3.pl.3.sg.fut.aff,m̥ú-vá-tè-hè,Σvátèhè,Σ v a ⁵ t e ¹ h e ¹,Σ+vá+tè+hè,Σ + v a ⁵ + t e ¹ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang100,mu,3.pl.3.sg.fut.aff,m̥ú-hé-tè,Σhétè,Σ h e ⁵ t e ¹,Σ+hé+tè,Σ + h e ⁵ + t e ¹,,,optional_future,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang101,mu,3.pl.3.pl.fut.aff,m̥ú-vá-tè-hè,Σvátèhè,Σ v a ⁵ t e ¹ h e ¹,Σ+vá+tè+hè,Σ + v a ⁵ + t e ¹ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang102,mu,3.pl.3.pl.fut.aff,m̥ú-hé-tè,Σhétè,Σ h e ⁵ t e ¹,Σ+hé+tè,Σ + h e ⁵ + t e ¹,,,optional_future,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang103,kar,1.sg.fut.neg,kàr-máː-ní-ŋ,Σmááníŋ,Σ m aa ⁵ n i ⁵ ŋ,Σ+máá+ní+ŋ,Σ + m aa ⁵ + n i ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang104,mu,1.sg.fut.neg,m̥ù-màː-ní-ŋ,Σmààníŋ,Σ m aa ¹ n i ⁵ ŋ,Σ+màà+ní+ŋ,Σ + m aa ¹ + n i ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang105,kar,1.pl.excl.fut.neg,kàr-máː-n-ú-ŋ,Σmáánúŋ,Σ m aa ⁵ n u ⁵ ŋ,Σ+máá+n+ú+ŋ,Σ + m aa ⁵ + n + u ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang106,kar,1.pl.incl.fut.neg,kàr-máː-mé-nɘ́,Σmááménɘ́,Σ m aa ⁵ m e ⁵ n ɘ ⁵,Σ+máá+mé+nɘ́,Σ + m aa ⁵ + m e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang107,si,1.pl.excl.fut.neg,sì-màː-n-ú-ŋ,Σmàànúŋ,Σ m aa ¹ n u ⁵ ŋ,Σ+màà+n+ú+ŋ,Σ + m aa ¹ + n + u ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang108,si,1.pl.incl.fut.neg,sì-màː-mé-nɘ́,Σmààménɘ́,Σ m aa ¹ m e ⁵ n ɘ ⁵,Σ+màà+mé+nɘ́,Σ + m aa ¹ + m e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang109,kʰi:r,1.sg.2.sg.fut.neg,kʰìːr-máː-ní-ŋ-tʃɘ́,Σmááníŋtʃɘ́,Σ m aa ⁵ n i ⁵ ŋ tʃ ɘ ⁵,Σ+máá+ní+ŋ+tʃɘ́,Σ + m aa ⁵ + n i ⁵ + ŋ + tʃ ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang110,mu,1.sg.2.sg.fut.neg,m̥ù-màː-ní-ŋ-tʃɘ́,Σmààníŋtʃɘ́,Σ m aa ¹ n i ⁵ ŋ tʃ ɘ ⁵,Σ+màà+ní+ŋ+tʃɘ́,Σ + m aa ¹ + n i ⁵ + ŋ + tʃ ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang111,kʰi:r,1.sg.2.pl.fut.neg,kʰìːr-máː-ní-ŋ-tʃ-ʷú,Σmááníŋtʃʷú,Σ m aa ⁵ n i ⁵ ŋ tʃ ʉ ⁵,Σ+máá+ní+ŋ+tʃ+ʷú,Σ + m aa ⁵ + n i ⁵ + ŋ + tʃ + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang112,kʰi:r,1.sg.3.pl.fut.neg,kʰìːr-máː-hé-ní-ŋ,Σmááhéníŋ,Σ m aa ⁵ h e ⁵ n i ⁵ ŋ,Σ+máá+hé+ní+ŋ,Σ + m aa ⁵ + h e ⁵ + n i ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang113,mu,1.sg.2.pl.fut.neg,m̥ù-màː-ní-ŋ-tʃ-ʷú,Σmààníŋtʃʷú,Σ m aa ¹ n i ⁵ ŋ tʃ ʉ ⁵,Σ+màà+ní+ŋ+tʃ+ʷú,Σ + m aa ¹ + n i ⁵ + ŋ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang114,mu,1.sg.3.pl.fut.neg,m̥ù-màː-hé-ní-ŋ,Σmààhéníŋ,Σ m aa ¹ h e ⁵ n i ⁵ ŋ,Σ+màà+hé+ní+ŋ,Σ + m aa ¹ + h e ⁵ + n i ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang115,kʰi:r,1.pl.excl.2.sg.fut.neg,kʰìːr-máː-n-ú-ŋ-tʃɘ́,Σmáánúŋtʃɘ́,Σ m aa ⁵ n u ⁵ ŋ tʃ ɘ ⁵,Σ+máá+n+ú+ŋ+tʃɘ́,Σ + m aa ⁵ + n + u ⁵ + ŋ + tʃ ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang116,kʰi:r,1.pl.excl.2.sg.fut.neg,kʰìːr-máː-ní-ŋ-tʃɘ́,Σmááníŋtʃɘ́,Σ m aa ⁵ n i ⁵ ŋ tʃ ɘ ⁵,Σ+máá+ní+ŋ+tʃɘ́,Σ + m aa ⁵ + n i ⁵ + ŋ + tʃ ɘ ⁵,,tone_alt_stem,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang117,mu,1.pl.excl.2.sg.fut.neg,m̥ù-màː-n-ú-ŋ-tʃɘ́,Σmàànúŋtʃɘ́,Σ m aa ¹ n u ⁵ ŋ tʃ ɘ ⁵,Σ+màà+n+ú+ŋ+tʃɘ́,Σ + m aa ¹ + n + u ⁵ + ŋ + tʃ ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang118,mu,1.pl.excl.2.sg.fut.neg,m̥ù-màː-ní-ŋ-tʃɘ́,Σmààníŋtʃɘ́,Σ m aa ¹ n i ⁵ ŋ tʃ ɘ ⁵,Σ+màà+ní+ŋ+tʃɘ́,Σ + m aa ¹ + n i ⁵ + ŋ + tʃ ɘ ⁵,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang119,kʰi:r,1.pl.excl.2.pl.fut.neg,kʰìːr-máː-n-ú-ŋ-tʃ-ʷú,Σmáánúŋtʃʷú,Σ m aa ⁵ n u ⁵ ŋ tʃ ʉ ⁵,Σ+máá+n+ú+ŋ+tʃ+ʷú,Σ + m aa ⁵ + n + u ⁵ + ŋ + tʃ + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang120,kʰi:r,1.pl.excl.2.pl.fut.neg,kʰìːr-máː-ní-ŋ-tʃ-ʷú,Σmááníŋtʃʷú,Σ m aa ⁵ n i ⁵ ŋ tʃ ʉ ⁵,Σ+máá+ní+ŋ+tʃ+ʷú,Σ + m aa ⁵ + n i ⁵ + ŋ + tʃ + ʉ ⁵,,tone_alt_stem,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang121,mu,1.pl.excl.2.pl.fut.neg,m̥ù-màː-n-ú-ŋ-tʃ-ʷú,Σmàànúŋtʃʷú,Σ m aa ¹ n u ⁵ ŋ tʃ ʉ ⁵,Σ+màà+n+ú+ŋ+tʃ+ʷú,Σ + m aa ¹ + n + u ⁵ + ŋ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang122,mu,1.pl.excl.2.pl.fut.neg,m̥ù-màː-ní-ŋ-tʃ-ʷú,Σmààníŋtʃʷú,Σ m aa ¹ n i ⁵ ŋ tʃ ʉ ⁵,Σ+màà+ní+ŋ+tʃ+ʷú,Σ + m aa ¹ + n i ⁵ + ŋ + tʃ + ʉ ⁵,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang123,kʰi:r,1.sg.3.sg.fut.neg,kʰìːr-máː-ní-ŋ,Σmááníŋ,Σ m aa ⁵ n i ⁵ ŋ,Σ+máá+ní+ŋ,Σ + m aa ⁵ + n i ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang124,mu,1.sg.3.sg.fut.neg,m̥ù-màː-ní-ŋ,Σmààníŋ,Σ m aa ¹ n i ⁵ ŋ,Σ+màà+ní+ŋ,Σ + m aa ¹ + n i ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang125,kʰi:r,1.pl.excl.3.sg.fut.neg,kʰìːr-máː-n-ú-ŋ,Σmáánúŋ,Σ m aa ⁵ n u ⁵ ŋ,Σ+máá+n+ú+ŋ,Σ + m aa ⁵ + n + u ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang126,kʰi:r,1.pl.incl.3.sg.fut.neg,kʰìːr-máː-mé-nɘ́,Σmááménɘ́,Σ m aa ⁵ m e ⁵ n ɘ ⁵,Σ+máá+mé+nɘ́,Σ + m aa ⁵ + m e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang127,mu,1.pl.excl.3.sg.fut.neg,m̥ù-màː-n-ú-ŋ,Σmàànúŋ,Σ m aa ¹ n u ⁵ ŋ,Σ+màà+n+ú+ŋ,Σ + m aa ¹ + n + u ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang128,mu,1.pl.incl.3.sg.fut.neg,m̥ù-màː-mé-nɘ́,Σmààménɘ́,Σ m aa ¹ m e ⁵ n ɘ ⁵,Σ+màà+mé+nɘ́,Σ + m aa ¹ + m e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang129,kʰi:r,1.pl.excl.3.pl.fut.neg,kʰìːr-máː-hé-n-ú-ŋ,Σmááhénúŋ,Σ m aa ⁵ h e ⁵ n u ⁵ ŋ,Σ+máá+hé+n+ú+ŋ,Σ + m aa ⁵ + h e ⁵ + n + u ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang130,kʰi:r,1.pl.excl.3.pl.fut.neg,kʰìːr-máː-n-ú-ŋ,Σmáánúŋ,Σ m aa ⁵ n u ⁵ ŋ,Σ+máá+n+ú+ŋ,Σ + m aa ⁵ + n + u ⁵ + ŋ,,tone_alt_stem,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang131,kʰi:r,1.pl.incl.3.pl.fut.neg,kʰìːr-máː-hé-mé-nɘ́,Σmááhéménɘ́,Σ m aa ⁵ h e ⁵ m e ⁵ n ɘ ⁵,Σ+máá+hé+mé+nɘ́,Σ + m aa ⁵ + h e ⁵ + m e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang132,kʰi:r,1.pl.incl.3.pl.fut.neg,kʰìːr-máː-mé-nɘ́,Σmááménɘ́,Σ m aa ⁵ m e ⁵ n ɘ ⁵,Σ+máá+mé+nɘ́,Σ + m aa ⁵ + m e ⁵ + n ɘ ⁵,,tone_alt_stem,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang133,mu,1.pl.excl.3.pl.fut.neg,m̥ù-màː-hé-n-ú-ŋ,Σmààhénúŋ,Σ m aa ¹ h e ⁵ n u ⁵ ŋ,Σ+màà+hé+n+ú+ŋ,Σ + m aa ¹ + h e ⁵ + n + u ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang134,mu,1.pl.excl.3.pl.fut.neg,m̥ù-màː-n-ú-ŋ,Σmàànúŋ,Σ m aa ¹ n u ⁵ ŋ,Σ+màà+n+ú+ŋ,Σ + m aa ¹ + n + u ⁵ + ŋ,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang135,mu,1.pl.incl.3.pl.fut.neg,m̥ù-màː-mé-nɘ́,Σmààménɘ́,Σ m aa ¹ m e ⁵ n ɘ ⁵,Σ+màà+mé+nɘ́,Σ + m aa ¹ + m e ⁵ + n ɘ ⁵,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang136,mu,1.pl.incl.3.pl.fut.neg,m̥ù-màː-hé-mé-nɘ́,Σmààhéménɘ́,Σ m aa ¹ h e ⁵ m e ⁵ n ɘ ⁵,Σ+màà+hé+mé+nɘ́,Σ + m aa ¹ + h e ⁵ + m e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang137,kar,2.sg.fut.neg,kàr-máː-té-nɘ́,Σmááténɘ́,Σ m aa ⁵ t e ⁵ n ɘ ⁵,Σ+máá+té+nɘ́,Σ + m aa ⁵ + t e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang138,si,2.sg.fut.neg,sì-màː-té-nɘ́,Σmààténɘ́,Σ m aa ¹ t e ⁵ n ɘ ⁵,Σ+màà+té+nɘ́,Σ + m aa ¹ + t e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang139,kar,2.pl.fut.neg,kàr-máː-té-n-ʷú,Σmááténʷú,Σ m aa ⁵ t e ⁵ n ʉ ⁵,Σ+máá+té+n+ʷú,Σ + m aa ⁵ + t e ⁵ + n + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang140,si,2.pl.fut.neg,sì-màː-té-n-ʷú,Σmààténʷú,Σ m aa ¹ t e ⁵ n ʉ ⁵,Σ+màà+té+n+ʷú,Σ + m aa ¹ + t e ⁵ + n + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang141,kʰi:r,2.sg.1.sg.fut.neg,ì-kʰíːr-máː-té-nɘ́,ìΣmááténɘ́,i ¹ Σ m aa ⁵ t e ⁵ n ɘ ⁵,ì+Σ+máá+té+nɘ́,i ¹ + Σ + m aa ⁵ + t e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang142,kʰi:r,2.sg.1.pl.excl.fut.neg,ì-kʰíːr-máː-té-nɘ́,ìΣmááténɘ́,i ¹ Σ m aa ⁵ t e ⁵ n ɘ ⁵,ì+Σ+máá+té+nɘ́,i ¹ + Σ + m aa ⁵ + t e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang143,kʰi:r,2.pl.1.sg.fut.neg,ì-kʰíːr-máː-té-n-ʷú,ìΣmááténʷú,i ¹ Σ m aa ⁵ t e ⁵ n ʉ ⁵,ì+Σ+máá+té+n+ʷú,i ¹ + Σ + m aa ⁵ + t e ⁵ + n + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang144,kʰi:r,2.pl.1.pl.excl.fut.neg,ì-kʰíːr-máː-té-n-ʷú,ìΣmááténʷú,i ¹ Σ m aa ⁵ t e ⁵ n ʉ ⁵,ì+Σ+máá+té+n+ʷú,i ¹ + Σ + m aa ⁵ + t e ⁵ + n + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang145,kʰi:r,2.sg.3.sg.fut.neg,kʰìːr-máː-té-nɘ́,Σmááténɘ́,Σ m aa ⁵ t e ⁵ n ɘ ⁵,Σ+máá+té+nɘ́,Σ + m aa ⁵ + t e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang146,mu,2.sg.3.sg.fut.neg,m̥ù-màː-té-nɘ́,Σmààténɘ́,Σ m aa ¹ t e ⁵ n ɘ ⁵,Σ+màà+té+nɘ́,Σ + m aa ¹ + t e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang147,kʰi:r,2.sg.3.pl.fut.neg,kʰìːr-máː-hé-té-nɘ́,Σmááhéténɘ́,Σ m aa ⁵ h e ⁵ t e ⁵ n ɘ ⁵,Σ+máá+hé+té+nɘ́,Σ + m aa ⁵ + h e ⁵ + t e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang148,mu,2.sg.3.pl.fut.neg,m̥ù-màː-hé-té-nɘ́,Σmààhéténɘ́,Σ m aa ¹ h e ⁵ t e ⁵ n ɘ ⁵,Σ+màà+hé+té+nɘ́,Σ + m aa ¹ + h e ⁵ + t e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang149,kʰi:r,2.pl.3.sg.fut.neg,kʰìːr-máː-té-n-ʷú,Σmááténʷú,Σ m aa ⁵ t e ⁵ n ʉ ⁵,Σ+máá+té+n+ʷú,Σ + m aa ⁵ + t e ⁵ + n + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang150,mu,2.pl.3.sg.fut.neg,m̥ù-màː-té-n-ʷú,Σmààténʷú,Σ m aa ¹ t e ⁵ n ʉ ⁵,Σ+màà+té+n+ʷú,Σ + m aa ¹ + t e ⁵ + n + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang151,kʰi:r,2.pl.3.pl.fut.neg,kʰìːr-máː-hé-té-n-ʷú,Σmááhéténʷú,Σ m aa ⁵ h e ⁵ t e ⁵ n ʉ ⁵,Σ+máá+hé+té+n+ʷú,Σ + m aa ⁵ + h e ⁵ + t e ⁵ + n + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang152,mu,2.pl.3.pl.fut.neg,m̥ù-màː-hé-té-n-ʷú,Σmààhéténʷú,Σ m aa ¹ h e ⁵ t e ⁵ n ʉ ⁵,Σ+màà+hé+té+n+ʷú,Σ + m aa ¹ + h e ⁵ + t e ⁵ + n + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang153,kar,3.sg.fut.neg,kàr-máː-nɘ́,Σmáánɘ́,Σ m aa ⁵ n ɘ ⁵,Σ+máá+nɘ́,Σ + m aa ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang154,si,3.sg.fut.neg,sì-màː-nɘ́,Σmàànɘ́,Σ m aa ¹ n ɘ ⁵,Σ+màà+nɘ́,Σ + m aa ¹ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang155,kar,3.pl.fut.neg,kàr-máː-hé-nɘ́,Σmááhénɘ́,Σ m aa ⁵ h e ⁵ n ɘ ⁵,Σ+máá+hé+nɘ́,Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang156,si,3.pl.fut.neg,sì-màː-hé-nɘ́,Σmààhénɘ́,Σ m aa ¹ h e ⁵ n ɘ ⁵,Σ+màà+hé+nɘ́,Σ + m aa ¹ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang157,kʰi:r,3.sg.1.sg.fut.neg,ì-kʰíːr-máː-nɘ́,ìΣmáánɘ́,i ¹ Σ m aa ⁵ n ɘ ⁵,ì+Σ+máá+nɘ́,i ¹ + Σ + m aa ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang158,kʰi:r,3.sg.1.pl.excl.fut.neg,ì-kʰíːr-máː-nɘ́,ìΣmáánɘ́,i ¹ Σ m aa ⁵ n ɘ ⁵,ì+Σ+máá+nɘ́,i ¹ + Σ + m aa ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang159,kʰi:r,3.sg.1.pl.incl.fut.neg,ì-kʰíːr-máː-nɘ́,ìΣmáánɘ́,i ¹ Σ m aa ⁵ n ɘ ⁵,ì+Σ+máá+nɘ́,i ¹ + Σ + m aa ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang160,mu,3.sg.1.pl.excl.fut.neg,ì-m̥ú-máː-nɘ́,ìΣmáánɘ́,i ¹ Σ m aa ⁵ n ɘ ⁵,ì+Σ+máá+nɘ́,i ¹ + Σ + m aa ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang161,kʰi:r,3.pl.1.sg.fut.neg,ì-kʰíːr-máː-hé-nɘ́,ìΣmááhénɘ́,i ¹ Σ m aa ⁵ h e ⁵ n ɘ ⁵,ì+Σ+máá+hé+nɘ́,i ¹ + Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang162,kʰi:r,3.pl.1.pl.excl.fut.neg,ì-kʰíːr-máː-hé-nɘ́,ìΣmááhénɘ́,i ¹ Σ m aa ⁵ h e ⁵ n ɘ ⁵,ì+Σ+máá+hé+nɘ́,i ¹ + Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang163,kʰi:r,3.pl.1.pl.incl.fut.neg,ì-kʰíːr-máː-hé-nɘ́,ìΣmááhénɘ́,i ¹ Σ m aa ⁵ h e ⁵ n ɘ ⁵,ì+Σ+máá+hé+nɘ́,i ¹ + Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang164,kʰi:r,3.sg.2.sg.fut.neg,ì-kʰíːr-máː-nɘ́,ìΣmáánɘ́,i ¹ Σ m aa ⁵ n ɘ ⁵,ì+Σ+máá+nɘ́,i ¹ + Σ + m aa ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang165,kʰi:r,3.sg.2.pl.fut.neg,ì-kʰíːr-máː-nɘ́,ìΣmáánɘ́,i ¹ Σ m aa ⁵ n ɘ ⁵,ì+Σ+máá+nɘ́,i ¹ + Σ + m aa ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang166,kʰi:r,3.pl.2.sg.fut.neg,ì-kʰíːr-máː-hé-nɘ́,ìΣmááhénɘ́,i ¹ Σ m aa ⁵ h e ⁵ n ɘ ⁵,ì+Σ+máá+hé+nɘ́,i ¹ + Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang167,kʰi:r,3.pl.2.pl.fut.neg,ì-kʰíːr-máː-hé-nɘ́,ìΣmááhénɘ́,i ¹ Σ m aa ⁵ h e ⁵ n ɘ ⁵,ì+Σ+máá+hé+nɘ́,i ¹ + Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang168,kʰi:r,3.sg.3.sg.fut.neg,kʰìːr-máː-nɘ́,Σmáánɘ́,Σ m aa ⁵ n ɘ ⁵,Σ+máá+nɘ́,Σ + m aa ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang169,mu,3.sg.3.sg.fut.neg,m̥ù-màː-nɘ́,Σmàànɘ́,Σ m aa ¹ n ɘ ⁵,Σ+màà+nɘ́,Σ + m aa ¹ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang170,kʰi:r,3.sg.3.pl.fut.neg,kʰìːr-máː-hé-nɘ́,Σmááhénɘ́,Σ m aa ⁵ h e ⁵ n ɘ ⁵,Σ+máá+hé+nɘ́,Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang171,mu,3.sg.3.pl.fut.neg,m̥ù-màː-hé-nɘ́,Σmààhénɘ́,Σ m aa ¹ h e ⁵ n ɘ ⁵,Σ+màà+hé+nɘ́,Σ + m aa ¹ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang172,kʰi:r,3.pl.3.sg.fut.neg,kʰìːr-máː-hé-nɘ́,Σmááhénɘ́,Σ m aa ⁵ h e ⁵ n ɘ ⁵,Σ+máá+hé+nɘ́,Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang173,mu,3.pl.3.sg.fut.neg,m̥ù-màː-hé-nɘ́,Σmààhénɘ́,Σ m aa ¹ h e ⁵ n ɘ ⁵,Σ+màà+hé+nɘ́,Σ + m aa ¹ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang174,kʰi:r,3.pl.3.pl.fut.neg,kʰìːr-máː-hé-nɘ́,Σmááhénɘ́,Σ m aa ⁵ h e ⁵ n ɘ ⁵,Σ+máá+hé+nɘ́,Σ + m aa ⁵ + h e ⁵ + n ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang175,mu,3.pl.3.pl.fut.neg,m̥ù-màː-hé-nɘ́,Σmààhénɘ́,Σ m aa ¹ h e ⁵ n ɘ ⁵,Σ+màà+hé+nɘ́,Σ + m aa ¹ + h e ⁵ + n ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang176,kar,1.sg.nfut.aff,kàr-ní-ŋ,Σníŋ,Σ n i ⁵ ŋ,Σ+ní+ŋ,Σ + n i ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang177,si,1.sg.nfut.aff,sí-nì-ŋ,Σnìŋ,Σ n i ¹ ŋ,Σ+nì+ŋ,Σ + n i ¹ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang178,kar,1.pl.excl.nfut.aff,kàr-n-ú-ŋ,Σnúŋ,Σ n u ⁵ ŋ,Σ+n+ú+ŋ,Σ + n + u ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang179,si,1.pl.excl.nfut.aff,sí-n-ù-ŋ,Σnùŋ,Σ n u ¹ ŋ,Σ+n+ù+ŋ,Σ + n + u ¹ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang180,si,1.pl.incl.nfut.aff,sí-mé-nɘ̀,Σménɘ̀,Σ m e ⁵ n ɘ ¹,Σ+mé+nɘ̀,Σ + m e ⁵ + n ɘ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang181,no_stem,1.sg.2.sg.nfut.aff,kíː-dɘ́ː-nàː-tʃɘ̀,kíΣnáátʃɘ̀,k i ⁵ Σ n aa ⁵ tʃ ɘ ¹,kí+Σ+náá+tʃɘ̀,k i ⁵ + Σ + n aa ⁵ + tʃ ɘ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang182,no_stem,1.sg.2.pl.nfut.aff,kíː-dɘ́ː-nàː-tʃ-ʷù,kíΣnáátʃʷù,k i ⁵ Σ n aa ⁵ tʃ ʉ ¹,kí+Σ+náá+tʃ+ʷù,k i ⁵ + Σ + n aa ⁵ + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang183,ka:,1.pl.excl.2.sg.nfut.aff,kíŋ-káː-náː-tʃɘ̀,kíŋΣnáátʃɘ̀,k i ⁵ ŋ Σ n aa ⁵ tʃ ɘ ¹,kíŋ+Σ+náá+tʃɘ̀,k i ⁵ ŋ + Σ + n aa ⁵ + tʃ ɘ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang184,mu,1.pl.excl.2.sg.nfut.aff,kím-m̥ú-náː-tʃɘ̀,kímΣnáátʃɘ̀,k i ⁵ m Σ n aa ⁵ tʃ ɘ ¹,kím+Σ+náá+tʃɘ̀,k i ⁵ m + Σ + n aa ⁵ + tʃ ɘ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang185,ne,1.pl.excl.2.sg.nfut.aff,kín-n̥é-náː-tʃɘ̀,kínΣnáátʃɘ̀,k i ⁵ n Σ n aa ⁵ tʃ ɘ ¹,kín+Σ+náá+tʃɘ̀,k i ⁵ n + Σ + n aa ⁵ + tʃ ɘ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang186,ka:,1.pl.excl.2.pl.nfut.aff,kíŋ-káː-náː-tʃ-ʷù,kíŋΣnáátʃʷù,k i ⁵ ŋ Σ n aa ⁵ tʃ ʉ ¹,kíŋ+Σ+náá+tʃ+ʷù,k i ⁵ ŋ + Σ + n aa ⁵ + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang187,mu,1.pl.excl.2.pl.nfut.aff,kím-m̥ú-náː-tʃ-ʷù,kímΣnáátʃʷù,k i ⁵ m Σ n aa ⁵ tʃ ʉ ¹,kím+Σ+náá+tʃ+ʷù,k i ⁵ m + Σ + n aa ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang188,ne,1.pl.excl.2.pl.nfut.aff,kín-n̥é-náː-tʃ-ʷù,kínΣnáátʃʷù,k i ⁵ n Σ n aa ⁵ tʃ ʉ ¹,kín+Σ+náá+tʃ+ʷù,k i ⁵ n + Σ + n aa ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang189,no_stem,1.sg.3.sg.nfut.aff,kíː-dɘ́ː-nàʔ,kíΣnáʔ,k i ⁵ Σ n a ⁵ ʔ,kí+Σ+náʔ,k i ⁵ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang190,no_stem,1.sg.3.pl.nfut.aff,kíː-dɘ́ː-nàː-hè,kíΣnááhè,k i ⁵ Σ n aa ⁵ h e ¹,kí+Σ+náá+hè,k i ⁵ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang191,ka:,1.pl.excl.3.sg.nfut.aff,kíŋ-káː-náʔ,kíŋΣnáʔ,k i ⁵ ŋ Σ n a ⁵ ʔ,kíŋ+Σ+náʔ,k i ⁵ ŋ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang192,mu,1.pl.excl.3.sg.nfut.aff,kím-m̥ú-náʔ,kímΣnáʔ,k i ⁵ m Σ n a ⁵ ʔ,kím+Σ+náʔ,k i ⁵ m + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang193,mu,1.pl.incl.3.sg.nfut.aff,ì-m̥ù-náɁ,ìΣnáʔ,i ¹ Σ n a ⁵ ʔ,ì+Σ+náʔ,i ¹ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang194,ne,1.pl.excl.3.sg.nfut.aff,kín-n̥é-náʔ,kínΣnáʔ,k i ⁵ n Σ n a ⁵ ʔ,kín+Σ+náʔ,k i ⁵ n + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang195,ka:,1.pl.excl.3.pl.nfut.aff,kíŋ-káː-náː-hè,kíŋΣnááhè,k i ⁵ ŋ Σ n aa ⁵ h e ¹,kíŋ+Σ+náá+hè,k i ⁵ ŋ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang196,mu,1.pl.excl.3.pl.nfut.aff,kím-m̥ú-náː-hè,kímΣnááhè,k i ⁵ m Σ n aa ⁵ h e ¹,kím+Σ+náá+hè,k i ⁵ m + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang197,mu,1.pl.incl.3.pl.nfut.aff,ì-m̥ù-náː-hè,ìΣnááhè,i ¹ Σ n aa ⁵ h e ¹,ì+Σ+náá+hè,i ¹ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang198,ne,1.pl.excl.3.pl.nfut.aff,kín-n̥é-náː-hè,kínΣnááhè,k i ⁵ n Σ n aa ⁵ h e ¹,kín+Σ+náá+hè,k i ⁵ n + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang199,si,2.sg.nfut.aff,sí-né-tʃɘ̀,Σnétʃɘ̀,Σ n e ⁵ tʃ ɘ ¹,Σ+né+tʃɘ̀,Σ + n e ⁵ + tʃ ɘ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang200,si,2.pl.nfut.aff,sí-né-tʃ-ʷù,Σnétʃʷù,Σ n e ⁵ tʃ ʉ ¹,Σ+né+tʃ+ʷù,Σ + n e ⁵ + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang201,ka:,2.sg.1.sg.nfut.aff,ŋ̩̀-káː-náː-tʃɘ̀,ŋ̩̀Σnáátʃɘ̀,ŋ ¹ Σ n aa ⁵ tʃ ɘ ¹,ŋ̩̀+Σ+náá+tʃɘ̀,ŋ ¹ + Σ + n aa ⁵ + tʃ ɘ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang202,mu,2.sg.1.sg.nfut.aff,m̩̀-m̥ú-náː-tʃɘ̀,m̩̀Σnáátʃɘ̀,m̩ ¹ Σ n aa ⁵ tʃ ɘ ¹,m̩̀+Σ+náá+tʃɘ̀,m̩ ¹ + Σ + n aa ⁵ + tʃ ɘ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang203,ne,2.sg.1.sg.nfut.aff,ǹ̩-n̥é-náː-tʃɘ̀,ǹ̩Σnáátʃɘ̀,n ¹ Σ n aa ⁵ tʃ ɘ ¹,ǹ̩+Σ+náá+tʃɘ̀,n ¹ + Σ + n aa ⁵ + tʃ ɘ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang204,ka:,2.sg.1.pl.excl.nfut.aff,ŋ̩̀-káː-náː-tʃ-ʷù,ŋ̩̀Σnáátʃʷù,ŋ ¹ Σ n aa ⁵ tʃ ʉ ¹,ŋ̩̀+Σ+náá+tʃ+ʷù,ŋ ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang205,ka:,2.sg.1.pl.excl.nfut.aff,ŋ̩̀-káː-náː-tʃɘ̀,ŋ̩̀Σnáátʃɘ̀,ŋ ¹ Σ n aa ⁵ tʃ ɘ ¹,ŋ̩̀+Σ+náá+tʃɘ̀,ŋ ¹ + Σ + n aa ⁵ + tʃ ɘ ¹,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang206,mu,2.sg.1.pl.excl.nfut.aff,m̩̀-m̥ú-náː-tʃ-ʷù,m̩̀Σnáátʃʷù,m̩ ¹ Σ n aa ⁵ tʃ ʉ ¹,m̩̀+Σ+náá+tʃ+ʷù,m̩ ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang207,mu,2.sg.1.pl.excl.nfut.aff,m̩̀-m̥ú-náː-tʃɘ̀,m̩̀Σnáátʃɘ̀,m̩ ¹ Σ n aa ⁵ tʃ ɘ ¹,m̩̀+Σ+náá+tʃɘ̀,m̩ ¹ + Σ + n aa ⁵ + tʃ ɘ ¹,,morphophon,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang208,ne,2.sg.1.pl.excl.nfut.aff,ǹ̩-n̥é-náː-tʃ-ʷù,ǹ̩Σnáátʃʷù,n ¹ Σ n aa ⁵ tʃ ʉ ¹,ǹ̩+Σ+náá+tʃ+ʷù,n ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang209,ne,2.sg.1.pl.excl.nfut.aff,ǹ̩-n̥é-náː-tʃɘ̀,ǹ̩Σnáátʃɘ̀,n ¹ Σ n aa ⁵ tʃ ɘ ¹,ǹ̩+Σ+náá+tʃɘ̀,n ¹ + Σ + n aa ⁵ + tʃ ɘ ¹,,morphophon,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang210,ka:,2.pl.1.sg.nfut.aff,ŋ̩̀-káː-náː-tʃ-ʷù,ŋ̩̀Σnáátʃʷù,ŋ ¹ Σ n aa ⁵ tʃ ʉ ¹,ŋ̩̀+Σ+náá+tʃ+ʷù,ŋ ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang211,mu,2.pl.1.sg.nfut.aff,m̩̀-m̥ú-náː-tʃ-ʷù,m̩̀Σnáátʃʷù,m̩ ¹ Σ n aa ⁵ tʃ ʉ ¹,m̩̀+Σ+náá+tʃ+ʷù,m̩ ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang212,ne,2.pl.1.sg.nfut.aff,ǹ̩-n̥é-náː-tʃ-ʷù,ǹ̩Σnáátʃʷù,n ¹ Σ n aa ⁵ tʃ ʉ ¹,ǹ̩+Σ+náá+tʃ+ʷù,n ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang213,ka:,2.pl.1.pl.excl.nfut.aff,ŋ̩̀-káː-náː-tʃ-ʷù,ŋ̩̀Σnáátʃʷù,ŋ ¹ Σ n aa ⁵ tʃ ʉ ¹,ŋ̩̀+Σ+náá+tʃ+ʷù,ŋ ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang214,mu,2.pl.1.pl.excl.nfut.aff,m̩̀-m̥ú-náː-tʃ-ʷù,m̩̀Σnáátʃʷù,m̩ ¹ Σ n aa ⁵ tʃ ʉ ¹,m̩̀+Σ+náá+tʃ+ʷù,m̩ ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang215,ne,2.pl.1.pl.excl.nfut.aff,ǹ̩-n̥é-náː-tʃ-ʷù,ǹ̩Σnáátʃʷù,n ¹ Σ n aa ⁵ tʃ ʉ ¹,ǹ̩+Σ+náá+tʃ+ʷù,n ¹ + Σ + n aa ⁵ + tʃ + ʉ ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang216,mu,2.sg.3.sg.nfut.aff,ná-m̥ú-náʔ,náΣnáʔ,n a ⁵ Σ n a ⁵ ʔ,ná+Σ+náʔ,n a ⁵ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang217,mu,2.sg.3.pl.nfut.aff,ná-m̥ú-náː-hè,náΣnááhè,n a ⁵ Σ n aa ⁵ h e ¹,ná+Σ+náá+hè,n a ⁵ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang218,ka:,2.pl.3.sg.nfut.aff,níŋ-káː-náʔ,níŋΣnáʔ,n i ⁵ ŋ Σ n a ⁵ ʔ,níŋ+Σ+náʔ,n i ⁵ ŋ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang219,ka:,2.pl.3.pl.nfut.aff,níŋ-káː-náː-hè,níŋΣnááhè,n i ⁵ ŋ Σ n aa ⁵ h e ¹,níŋ+Σ+náá+hè,n i ⁵ ŋ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang220,kar,3.sg.nfut.aff,kàr-né,Σné,Σ n e ⁵,Σ+né,Σ + n e ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang221,si,3.sg.nfut.aff,sí-nè,Σnè,Σ n e ¹,Σ+nè,Σ + n e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang222,kar,3.pl.nfut.aff,kàr-né-hè,Σnéhè,Σ n e ⁵ h e ¹,Σ+né+hè,Σ + n e ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang223,si,3.pl.nfut.aff,sí-hé-né,Σhéné,Σ h e ⁵ n e ⁵,Σ+hé+né,Σ + h e ⁵ + n e ⁵,,,,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang224,ka:,3.sg.1.sg.nfut.aff,ŋ̩̀-káː-náʔ,ŋ̩̀Σnáʔ,ŋ ¹ Σ n a ⁵ ʔ,ŋ̩̀+Σ+náʔ,ŋ ¹ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang225,mu,3.sg.1.sg.nfut.aff,m̩̀-m̥ú-náʔ,m̩̀Σnáʔ,m̩ ¹ Σ n a ⁵ ʔ,m̩̀+Σ+náʔ,m̩ ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang226,ne,3.sg.1.sg.nfut.aff,ǹ̩-n̥é-náʔ,ǹ̩Σnáʔ,n ¹ Σ n a ⁵ ʔ,ǹ̩+Σ+náʔ,n ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang227,ka:,3.sg.1.pl.excl.nfut.aff,ŋ̩̀-káː-náʔ,ŋ̩̀Σnáʔ,ŋ ¹ Σ n a ⁵ ʔ,ŋ̩̀+Σ+náʔ,ŋ ¹ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang228,ka:,3.sg.1.pl.incl.nfut.aff,ŋ̩̀-káː-náʔ,ŋ̩̀Σnáʔ,ŋ ¹ Σ n a ⁵ ʔ,ŋ̩̀+Σ+náʔ,ŋ ¹ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang229,mu,3.sg.1.pl.excl.nfut.aff,m̩̀-m̥ú-náʔ,m̩̀Σnáʔ,m̩ ¹ Σ n a ⁵ ʔ,m̩̀+Σ+náʔ,m̩ ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang230,mu,3.sg.1.pl.incl.nfut.aff,m̩̀-m̥ú-náʔ,m̩̀Σnáʔ,m̩ ¹ Σ n a ⁵ ʔ,m̩̀+Σ+náʔ,m̩ ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang231,ne,3.sg.1.pl.excl.nfut.aff,ǹ̩-n̥é-náʔ,ǹ̩Σnáʔ,n ¹ Σ n a ⁵ ʔ,ǹ̩+Σ+náʔ,n ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang232,ne,3.sg.1.pl.incl.nfut.aff,ǹ̩-n̥é-náʔ,ǹ̩Σnáʔ,n ¹ Σ n a ⁵ ʔ,ǹ̩+Σ+náʔ,n ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang233,ka:,3.pl.1.sg.nfut.aff,ŋ̩̀-káː-náː-hè,ŋ̩̀Σnááhè,ŋ ¹ Σ n aa ⁵ h e ¹,ŋ̩̀+Σ+náá+hè,ŋ ¹ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang234,mu,3.pl.1.sg.nfut.aff,m̩̀-m̥ú-náː-hè,m̩̀Σnááhè,m̩ ¹ Σ n aa ⁵ h e ¹,m̩̀+Σ+náá+hè,m̩ ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang235,ne,3.pl.1.sg.nfut.aff,ǹ̩-n̥é-náː-hè,ǹ̩Σnááhè,n ¹ Σ n aa ⁵ h e ¹,ǹ̩+Σ+náá+hè,n ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang236,ka:,3.pl.1.pl.excl.nfut.aff,ŋ̩̀-káː-náː-hè,ŋ̩̀Σnááhè,ŋ ¹ Σ n aa ⁵ h e ¹,ŋ̩̀+Σ+náá+hè,ŋ ¹ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang237,ka:,3.pl.1.pl.incl.nfut.aff,ŋ̩̀-káː-náː-hè,ŋ̩̀Σnááhè,ŋ ¹ Σ n aa ⁵ h e ¹,ŋ̩̀+Σ+náá+hè,ŋ ¹ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang238,mu,3.pl.1.pl.excl.nfut.aff,m̩̀-m̥ú-náː-hè,m̩̀Σnááhè,m̩ ¹ Σ n aa ⁵ h e ¹,m̩̀+Σ+náá+hè,m̩ ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang239,mu,3.pl.1.pl.incl.nfut.aff,m̩̀-m̥ú-náː-hè,m̩̀Σnááhè,m̩ ¹ Σ n aa ⁵ h e ¹,m̩̀+Σ+náá+hè,m̩ ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang240,ne,3.pl.1.pl.excl.nfut.aff,ǹ̩-n̥é-náː-hè,ǹ̩Σnááhè,n ¹ Σ n aa ⁵ h e ¹,ǹ̩+Σ+náá+hè,n ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang241,ne,3.pl.1.pl.incl.nfut.aff,ǹ̩-n̥é-náː-hè,ǹ̩Σnááhè,n ¹ Σ n aa ⁵ h e ¹,ǹ̩+Σ+náá+hè,n ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang242,ka:,3.sg.2.sg.nfut.aff,ŋ̩̀-káː-náʔ,ŋ̩̀Σnáʔ,ŋ ¹ Σ n a ⁵ ʔ,ŋ̩̀+Σ+náʔ,ŋ ¹ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang243,mu,3.sg.2.sg.nfut.aff,m̩̀-m̥ú-náʔ,m̩̀Σnáʔ,m̩ ¹ Σ n a ⁵ ʔ,m̩̀+Σ+náʔ,m̩ ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang244,ne,3.sg.2.sg.nfut.aff,ǹ̩-n̥é-náʔ,ǹ̩Σnáʔ,n ¹ Σ n a ⁵ ʔ,ǹ̩+Σ+náʔ,n ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang245,ka:,3.sg.2.pl.nfut.aff,ŋ̩̀-káː-náʔ,ŋ̩̀Σnáʔ,ŋ ¹ Σ n a ⁵ ʔ,ŋ̩̀+Σ+náʔ,ŋ ¹ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang246,mu,3.sg.2.pl.nfut.aff,m̩̀-m̥ú-náʔ,m̩̀Σnáʔ,m̩ ¹ Σ n a ⁵ ʔ,m̩̀+Σ+náʔ,m̩ ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang247,ne,3.sg.2.pl.nfut.aff,ǹ̩-n̥é-náʔ,ǹ̩Σnáʔ,n ¹ Σ n a ⁵ ʔ,ǹ̩+Σ+náʔ,n ¹ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang248,ka:,3.pl.2.sg.nfut.aff,ŋ̩̀-káː-náː-hè,ŋ̩̀Σnááhè,ŋ ¹ Σ n aa ⁵ h e ¹,ŋ̩̀+Σ+náá+hè,ŋ ¹ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang249,mu,3.pl.2.sg.nfut.aff,m̩̀-m̥ú-náː-hè,m̩̀Σnááhè,m̩ ¹ Σ n aa ⁵ h e ¹,m̩̀+Σ+náá+hè,m̩ ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang250,ne,3.pl.2.sg.nfut.aff,ǹ̩-n̥é-náː-hè,ǹ̩Σnááhè,n ¹ Σ n aa ⁵ h e ¹,ǹ̩+Σ+náá+hè,n ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang251,ka:,3.pl.2.pl.nfut.aff,ŋ̩̀-káː-náː-hè,ŋ̩̀Σnááhè,ŋ ¹ Σ n aa ⁵ h e ¹,ŋ̩̀+Σ+náá+hè,ŋ ¹ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang252,mu,3.pl.2.pl.nfut.aff,m̩̀-m̥ú-náː-hè,m̩̀Σnááhè,m̩ ¹ Σ n aa ⁵ h e ¹,m̩̀+Σ+náá+hè,m̩ ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang253,ne,3.pl.2.pl.nfut.aff,ǹ̩-n̥é-náː-hè,ǹ̩Σnááhè,n ¹ Σ n aa ⁵ h e ¹,ǹ̩+Σ+náá+hè,n ¹ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang254,mu,3.sg.3.sg.nfut.aff,á-m̥ú-náʔ,áΣnáʔ,a ⁵ Σ n a ⁵ ʔ,á+Σ+náʔ,a ⁵ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang255,mu,3.sg.3.pl.nfut.aff,á-m̥ú-náː-hè,áΣnááhè,a ⁵ Σ n aa ⁵ h e ¹,á+Σ+náá+hè,a ⁵ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang256,ka:,3.pl.3.sg.nfut.aff,ŋ̩́-káː-náʔ,ŋ̩́Σnáʔ,ŋ ⁵ Σ n a ⁵ ʔ,ŋ̩́+Σ+náʔ,ŋ ⁵ + Σ + n a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang257,mu,3.pl.3.sg.nfut.aff,ḿ̩-m̥ú-náʔ,ḿ̩Σnáʔ,m̩ ⁵ Σ n a ⁵ ʔ,ḿ̩+Σ+náʔ,m̩ ⁵ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang258,mu,3.pl.3.sg.nfut.aff,á-m̥ú-náː-hè,áΣnááhè,a ⁵ Σ n aa ⁵ h e ¹,á+Σ+náá+hè,a ⁵ + Σ + n aa ⁵ + h e ¹,pragm_marked,,,,Konnerth2025Monsang,nopage,monsang
+monsang259,ne,3.pl.3.sg.nfut.aff,ń̩-n̥é-náʔ,ń̩Σnáʔ,n̩ ⁵ Σ n a ⁵ ʔ,ń̩+Σ+náʔ,n̩ ⁵ + Σ + n a ⁵ ʔ,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang260,ka:,3.pl.3.pl.nfut.aff,ŋ̩́-káː-náː-hè,ŋ̩́Σnááhè,ŋ ⁵ Σ n aa ⁵ h e ¹,ŋ̩́+Σ+náá+hè,ŋ ⁵ + Σ + n aa ⁵ + h e ¹,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang261,mu,3.pl.3.pl.nfut.aff,ḿ̩-m̥ú-náː-hè,ḿ̩Σnááhè,m̩ ⁵ Σ n aa ⁵ h e ¹,ḿ̩+Σ+náá+hè,m̩ ⁵ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang262,mu,3.pl.3.pl.nfut.aff,á-m̥ú-náː-hè,áΣnááhè,a ⁵ Σ n aa ⁵ h e ¹,á+Σ+náá+hè,a ⁵ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang263,ne,3.pl.3.pl.nfut.aff,ń̩-n̥é-náː-hè,ń̩Σnááhè,n̩ ⁵ Σ n aa ⁵ h e ¹,ń̩+Σ+náá+hè,n̩ ⁵ + Σ + n aa ⁵ + h e ¹,,morphophon,,,Konnerth2025Monsang,nopage,monsang
+monsang264,kar,1.sg.nfut.neg,kàr-máː-ŋ,Σmááŋ,Σ m aa ⁵ ŋ,Σ+máá+ŋ,Σ + m aa ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang265,si,1.sg.nfut.neg,sì-mǎː-ŋ,Σmàáŋ,Σ m aa ¹⁵ ŋ,Σ+màá+ŋ,Σ + m aa ¹⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang266,kar,1.pl.excl.nfut.neg,kàr-má-ú-ŋ,Σmáúŋ,Σ m a ⁵ u ⁵ ŋ,Σ+má+ú+ŋ,Σ + m a ⁵ + u ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang267,kar,1.pl.incl.nfut.neg,kàr-máː-mɘ́,Σmáámɘ́,Σ m aa ⁵ m ɘ ⁵,Σ+máá+mɘ́,Σ + m aa ⁵ + m ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang268,si,1.pl.excl.nfut.neg,sì-mà-ú-ŋ,Σmàúŋ,Σ m a ¹ u ⁵ ŋ,Σ+mà+ú+ŋ,Σ + m a ¹ + u ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang269,si,1.pl.incl.nfut.neg,sì-màː-mɘ́,Σmààmɘ́,Σ m aa ¹ m ɘ ⁵,Σ+màà+mɘ́,Σ + m aa ¹ + m ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang270,kʰi:r,1.sg.2.sg.nfut.neg,kʰìːr-máː-ŋ-tʃɘ̀,Σmááŋtʃɘ̀,Σ m aa ⁵ ŋ tʃ ɘ ¹,Σ+máá+ŋ+tʃɘ̀,Σ + m aa ⁵ + ŋ + tʃ ɘ ¹,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang271,mu,1.sg.2.sg.nfut.neg,m̥ù-màː-ŋ-tʃɘ́,Σmààŋtʃɘ́,Σ m aa ¹ ŋ tʃ ɘ ⁵,Σ+màà+ŋ+tʃɘ́,Σ + m aa ¹ + ŋ + tʃ ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang272,kʰi:r,1.sg.2.pl.nfut.neg,kʰìːr-máː-ŋ-tʃ-ʷù,Σmááŋtʃʷù,Σ m aa ⁵ ŋ tʃ ʉ ¹,Σ+máá+ŋ+tʃ+ʷù,Σ + m aa ⁵ + ŋ + tʃ + ʉ ¹,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang273,mu,1.sg.2.pl.nfut.neg,m̥ù-màː-ŋ-tʃ-ʷú,Σmààŋtʃʷú,Σ m aa ¹ ŋ tʃ ʉ ⁵,Σ+màà+ŋ+tʃ+ʷú,Σ + m aa ¹ + ŋ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang274,kʰi:r,1.pl.excl.2.sg.nfut.neg,kʰìːr-má-ú-ŋ-tʃ-ʷú,Σmáúŋtʃʷú,Σ m a ⁵ u ⁵ ŋ tʃ ʉ ⁵,Σ+má+ú+ŋ+tʃ+ʷú,Σ + m a ⁵ + u ⁵ + ŋ + tʃ + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang275,mu,1.pl.excl.2.sg.nfut.neg,m̥ù-mà-ú-ŋ-tʃ-ʷú,Σmàúŋtʃʷú,Σ m a ¹ u ⁵ ŋ tʃ ʉ ⁵,Σ+mà+ú+ŋ+tʃ+ʷú,Σ + m a ¹ + u ⁵ + ŋ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang276,kʰi:r,1.pl.excl.2.pl.nfut.neg,kʰìːr-má-ú-ŋ-tʃ-ʷú,Σmáúŋtʃʷú,Σ m a ⁵ u ⁵ ŋ tʃ ʉ ⁵,Σ+má+ú+ŋ+tʃ+ʷú,Σ + m a ⁵ + u ⁵ + ŋ + tʃ + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang277,mu,1.pl.excl.2.pl.nfut.neg,m̥ù-mà-ú-ŋ-tʃ-ʷú,Σmàúŋtʃʷú,Σ m a ¹ u ⁵ ŋ tʃ ʉ ⁵,Σ+mà+ú+ŋ+tʃ+ʷú,Σ + m a ¹ + u ⁵ + ŋ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang278,kʰi:r,1.sg.3.sg.nfut.neg,kʰìːr-máː-ŋ,Σmááŋ,Σ m aa ⁵ ŋ,Σ+máá+ŋ,Σ + m aa ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang279,mu,1.sg.3.sg.nfut.neg,m̥ù-mǎː-ŋ,Σmàáŋ,Σ m aa ¹⁵ ŋ,Σ+màá+ŋ,Σ + m aa ¹⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang280,kʰi:r,1.sg.3.pl.nfut.neg,kʰìːr-máː-hé-ŋ,Σmááhéŋ,Σ m aa ⁵ h e ⁵ ŋ,Σ+máá+hé+ŋ,Σ + m aa ⁵ + h e ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang281,mu,1.sg.3.pl.nfut.neg,m̥ù-màː-hé-ŋ,Σmààhéŋ,Σ m aa ¹ h e ⁵ ŋ,Σ+màà+hé+ŋ,Σ + m aa ¹ + h e ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang282,kʰi:r,1.pl.excl.3.sg.nfut.neg,kʰìːr-má-ú-ŋ,Σmáúŋ,Σ m a ⁵ u ⁵ ŋ,Σ+má+ú+ŋ,Σ + m a ⁵ + u ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang283,kʰi:r,1.pl.incl.3.sg.nfut.neg,kʰìːr-máː-mɘ́,Σmáámɘ́,Σ m aa ⁵ m ɘ ⁵,Σ+máá+mɘ́,Σ + m aa ⁵ + m ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang284,mu,1.pl.excl.3.sg.nfut.neg,m̥ù-mà-ú-ŋ,Σmàúŋ,Σ m a ¹ u ⁵ ŋ,Σ+mà+ú+ŋ,Σ + m a ¹ + u ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang285,mu,1.pl.incl.3.sg.nfut.neg,m̥ù-màː-mɘ́,Σmààmɘ́,Σ m aa ¹ m ɘ ⁵,Σ+màà+mɘ́,Σ + m aa ¹ + m ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang286,kʰi:r,1.pl.excl.3.pl.nfut.neg,kʰìːr-máː-h-ú-ŋ,Σmááhúŋ,Σ m aa ⁵ h u ⁵ ŋ,Σ+máá+h+ú+ŋ,Σ + m aa ⁵ + h + u ⁵ + ŋ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang287,kʰi:r,1.pl.excl.3.pl.nfut.neg,kʰìːr-má-ú-ŋ,Σmáúŋ,Σ m a ⁵ u ⁵ ŋ,Σ+má+ú+ŋ,Σ + m a ⁵ + u ⁵ + ŋ,,tone_alt_stem,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang288,kʰi:r,1.pl.incl.3.pl.nfut.neg,kʰìːr-máː-mé-hɘ́,Σmááméhɘ́,Σ m aa ⁵ m e ⁵ h ɘ ⁵,Σ+máá+mé+hɘ́,Σ + m aa ⁵ + m e ⁵ + h ɘ ⁵,,tone_alt_stem,,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang289,kʰi:r,1.pl.incl.3.pl.nfut.neg,kʰìːr-máː-hé-mɘ́,Σmááhémɘ́,Σ m aa ⁵ h e ⁵ m ɘ ⁵,Σ+máá+hé+mɘ́,Σ + m aa ⁵ + h e ⁵ + m ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang290,kʰi:r,1.pl.incl.3.pl.nfut.neg,kʰìːr-máː-mɘ́,Σmáámɘ́,Σ m aa ⁵ m ɘ ⁵,Σ+máá+mɘ́,Σ + m aa ⁵ + m ɘ ⁵,,tone_alt_stem,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang291,mu,1.pl.excl.3.pl.nfut.neg,m̥ù-mà-ú-ŋ,Σmàúŋ,Σ m a ¹ u ⁵ ŋ,Σ+mà+ú+ŋ,Σ + m a ¹ + u ⁵ + ŋ,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang292,mu,1.pl.excl.3.pl.nfut.neg,m̥ù-màː-h-ú-ŋ,Σmààhúŋ,Σ m aa ¹ h u ⁵ ŋ,Σ+màà+h+ú+ŋ,Σ + m aa ¹ + h + u ⁵ + ŋ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang293,mu,1.pl.incl.3.pl.nfut.neg,m̥ù-màː-mé-hɘ́,Σmààméhɘ́,Σ m aa ¹ m e ⁵ h ɘ ⁵,Σ+màà+mé+hɘ́,Σ + m aa ¹ + m e ⁵ + h ɘ ⁵,,,,variable_order,Konnerth2025Monsang,nopage,monsang
+monsang294,mu,1.pl.incl.3.pl.nfut.neg,m̥ù-màː-hé-mɘ́,Σmààhémɘ́,Σ m aa ¹ h e ⁵ m ɘ ⁵,Σ+màà+hé+mɘ́,Σ + m aa ¹ + h e ⁵ + m ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang295,mu,1.pl.incl.3.pl.nfut.neg,m̥ù-màː-mɘ́,Σmààmɘ́,Σ m aa ¹ m ɘ ⁵,Σ+màà+mɘ́,Σ + m aa ¹ + m ɘ ⁵,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang296,kar,2.sg.nfut.neg,kàr-máː-tʃɘ́,Σmáátʃɘ́,Σ m aa ⁵ tʃ ɘ ⁵,Σ+máá+tʃɘ́,Σ + m aa ⁵ + tʃ ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang297,si,2.sg.nfut.neg,sì-màː-tʃɘ́,Σmààtʃɘ́,Σ m aa ¹ tʃ ɘ ⁵,Σ+màà+tʃɘ́,Σ + m aa ¹ + tʃ ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang298,kar,2.pl.nfut.neg,kàr-máː-tʃ-ʷú,Σmáátʃʷú,Σ m aa ⁵ tʃ ʉ ⁵,Σ+máá+tʃ+ʷú,Σ + m aa ⁵ + tʃ + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang299,si,2.pl.nfut.neg,sì-màː-tʃ-ʷú,Σmààtʃʷú,Σ m aa ¹ tʃ ʉ ⁵,Σ+màà+tʃ+ʷú,Σ + m aa ¹ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang300,kʰi:r,2.sg.1.sg.nfut.neg,ì-kʰíːr-máː-tʃɘ́,ìΣmáátʃɘ́,i ¹ Σ m aa ⁵ tʃ ɘ ⁵,ì+Σ+máá+tʃɘ́,i ¹ + Σ + m aa ⁵ + tʃ ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang301,kʰi:r,2.sg.1.pl.excl.nfut.neg,ì-kʰíːr-máː-tʃ-ʷú,ìΣmáátʃʷú,i ¹ Σ m aa ⁵ tʃ ʉ ⁵,ì+Σ+máá+tʃ+ʷú,i ¹ + Σ + m aa ⁵ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang302,mu,2.sg.1.pl.excl.nfut.neg,ì-m̥ú-máː-tʃɘ́,ìΣmáátʃɘ́,i ¹ Σ m aa ⁵ tʃ ɘ ⁵,ì+Σ+máá+tʃɘ́,i ¹ + Σ + m aa ⁵ + tʃ ɘ ⁵,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang303,kʰi:r,2.pl.1.sg.nfut.neg,ì-kʰíːr-máː-tʃ-ʷú,ìΣmáátʃʷú,i ¹ Σ m aa ⁵ tʃ ʉ ⁵,ì+Σ+máá+tʃ+ʷú,i ¹ + Σ + m aa ⁵ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang304,kʰi:r,2.pl.1.pl.excl.nfut.neg,ì-kʰíːr-máː-tʃ-ʷú,ìΣmáátʃʷú,i ¹ Σ m aa ⁵ tʃ ʉ ⁵,ì+Σ+máá+tʃ+ʷú,i ¹ + Σ + m aa ⁵ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang305,kʰi:r,2.sg.3.sg.nfut.neg,kʰìːr-máː-tʃɘ́,Σmáátʃɘ́,Σ m aa ⁵ tʃ ɘ ⁵,Σ+máá+tʃɘ́,Σ + m aa ⁵ + tʃ ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang306,mu,2.sg.3.sg.nfut.neg,m̥ù-màː-tʃɘ́,Σmààtʃɘ́,Σ m aa ¹ tʃ ɘ ⁵,Σ+màà+tʃɘ́,Σ + m aa ¹ + tʃ ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang307,kʰi:r,2.sg.3.pl.nfut.neg,kʰìːr-máː-hé-tʃɘ́,Σmááhétʃɘ́,Σ m aa ⁵ h e ⁵ tʃ ɘ ⁵,Σ+máá+hé+tʃɘ́,Σ + m aa ⁵ + h e ⁵ + tʃ ɘ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang308,mu,2.sg.3.pl.nfut.neg,m̥ù-màː-hé-tʃɘ́,Σmààhétʃɘ́,Σ m aa ¹ h e ⁵ tʃ ɘ ⁵,Σ+màà+hé+tʃɘ́,Σ + m aa ¹ + h e ⁵ + tʃ ɘ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang309,kʰi:r,2.pl.3.sg.nfut.neg,kʰìːr-máː-tʃ-ʷú,Σmáátʃʷú,Σ m aa ⁵ tʃ ʉ ⁵,Σ+máá+tʃ+ʷú,Σ + m aa ⁵ + tʃ + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang310,mu,2.pl.3.sg.nfut.neg,m̥ù-màː-tʃ-ʷú,Σmààtʃʷú,Σ m aa ¹ tʃ ʉ ⁵,Σ+màà+tʃ+ʷú,Σ + m aa ¹ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang311,kʰi:r,2.pl.3.pl.nfut.neg,kʰìːr-máː-hé-tʃ-ʷú,Σmááhétʃʷú,Σ m aa ⁵ h e ⁵ tʃ ʉ ⁵,Σ+máá+hé+tʃ+ʷú,Σ + m aa ⁵ + h e ⁵ + tʃ + ʉ ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang312,kʰi:r,2.pl.3.pl.nfut.neg,kʰìːr-máː-tʃ-ʷú,Σmáátʃʷú,Σ m aa ⁵ tʃ ʉ ⁵,Σ+máá+tʃ+ʷú,Σ + m aa ⁵ + tʃ + ʉ ⁵,,tone_alt_stem,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang313,mu,2.pl.3.pl.nfut.neg,m̥ù-màː-hé-tʃ-ʷú,Σmààhétʃʷú,Σ m aa ¹ h e ⁵ tʃ ʉ ⁵,Σ+màà+hé+tʃ+ʷú,Σ + m aa ¹ + h e ⁵ + tʃ + ʉ ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang314,mu,2.pl.3.pl.nfut.neg,m̥ù-màː-tʃ-ʷú,Σmààtʃʷú,Σ m aa ¹ tʃ ʉ ⁵,Σ+màà+tʃ+ʷú,Σ + m aa ¹ + tʃ + ʉ ⁵,,,optional_plural,,Konnerth2025Monsang,nopage,monsang
+monsang315,kar,3.sg.nfut.neg,kàr-máʔ,Σmáʔ,Σ m a ⁵ ʔ,Σ+máʔ,Σ + m a ⁵ ʔ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang316,si,3.sg.nfut.neg,sì-màʔ,Σmàʔ,Σ m a ¹ ʔ,Σ+màʔ,Σ + m a ¹ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang317,kar,3.pl.nfut.neg,kàr-máː-hé,Σmááhé,Σ m aa ⁵ h e ⁵,Σ+máá+hé,Σ + m aa ⁵ + h e ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang318,si,3.pl.nfut.neg,sì-màː-hé,Σmààhé,Σ m aa ¹ h e ⁵,Σ+màà+hé,Σ + m aa ¹ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang319,kʰi:r,3.sg.1.sg.nfut.neg,ì-kʰíːr-máʔ,ìΣmáʔ,i ¹ Σ m a ⁵ ʔ,ì+Σ+máʔ,i ¹ + Σ + m a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang320,kʰi:r,3.sg.1.pl.excl.nfut.neg,ì-kʰíːr-máʔ,ìΣmáʔ,i ¹ Σ m a ⁵ ʔ,ì+Σ+máʔ,i ¹ + Σ + m a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang321,kʰi:r,3.sg.1.pl.incl.nfut.neg,ì-kʰíːr-máʔ,ìΣmáʔ,i ¹ Σ m a ⁵ ʔ,ì+Σ+máʔ,i ¹ + Σ + m a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang322,kʰi:r,3.pl.1.sg.nfut.neg,ì-kʰíːr-máː-hé,ìΣmááhé,i ¹ Σ m aa ⁵ h e ⁵,ì+Σ+máá+hé,i ¹ + Σ + m aa ⁵ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang323,kʰi:r,3.pl.1.pl.excl.nfut.neg,ì-kʰíːr-máː-hè,ìΣmááhé,i ¹ Σ m aa ⁵ h e ⁵,ì+Σ+máá+hé,i ¹ + Σ + m aa ⁵ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang324,kʰi:r,3.pl.1.pl.incl.nfut.neg,ì-kʰíːr-máː-hé,ìΣmááhé,i ¹ Σ m aa ⁵ h e ⁵,ì+Σ+máá+hé,i ¹ + Σ + m aa ⁵ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang325,kʰi:r,3.sg.2.sg.nfut.neg,ì-kʰíːr-máʔ,ìΣmáʔ,i ¹ Σ m a ⁵ ʔ,ì+Σ+máʔ,i ¹ + Σ + m a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang326,kʰi:r,3.sg.2.pl.nfut.neg,ì-kʰíːr-máʔ,ìΣmáʔ,i ¹ Σ m a ⁵ ʔ,ì+Σ+máʔ,i ¹ + Σ + m a ⁵ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang327,kʰi:r,3.pl.2.sg.nfut.neg,ì-kʰíːr-máː-hé,ìΣmááhé,i ¹ Σ m aa ⁵ h e ⁵,ì+Σ+máá+hé,i ¹ + Σ + m aa ⁵ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang328,kʰi:r,3.pl.2.pl.nfut.neg,ì-kʰíːr-máː-hé,ìΣmááhé,i ¹ Σ m aa ⁵ h e ⁵,ì+Σ+máá+hé,i ¹ + Σ + m aa ⁵ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang329,kʰi:r,3.sg.3.sg.nfut.neg,kʰìːr-máʔ,Σmáʔ,Σ m a ⁵ ʔ,Σ+máʔ,Σ + m a ⁵ ʔ,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang330,mu,3.sg.3.sg.nfut.neg,m̥ù-màʔ,Σmàʔ,Σ m a ¹ ʔ,Σ+màʔ,Σ + m a ¹ ʔ,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang331,kʰi:r,3.sg.3.pl.nfut.neg,kʰìːr-máː-hé,Σmááhé,Σ m aa ⁵ h e ⁵,Σ+máá+hé,Σ + m aa ⁵ + h e ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang332,mu,3.sg.3.pl.nfut.neg,m̥ù-màː-hé,Σmààhé,Σ m aa ¹ h e ⁵,Σ+màà+hé,Σ + m aa ¹ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang333,kʰi:r,3.pl.3.sg.nfut.neg,kʰìːr-máː-hé,Σmááhé,Σ m aa ⁵ h e ⁵,Σ+máá+hé,Σ + m aa ⁵ + h e ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang334,mu,3.pl.3.sg.nfut.neg,m̥ù-màː-hé,Σmààhé,Σ m aa ¹ h e ⁵,Σ+màà+hé,Σ + m aa ¹ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang
+monsang335,kʰi:r,3.pl.3.pl.nfut.neg,kʰìːr-máː-hé,Σmááhé,Σ m aa ⁵ h e ⁵,Σ+máá+hé,Σ + m aa ⁵ + h e ⁵,,tone_alt_stem,,,Konnerth2025Monsang,nopage,monsang
+monsang336,mu,3.pl.3.pl.nfut.neg,m̥ù-màː-hé,Σmààhé,Σ m aa ¹ h e ⁵,Σ+màà+hé,Σ + m aa ¹ + h e ⁵,default,,,,Konnerth2025Monsang,nopage,monsang

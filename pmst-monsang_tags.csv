@@ -1,0 +1,11 @@
+tag_id,tag_column_name,comment,language_id
+morphophon,morphanalysis_tag,form exhibits morphophonological process(es) such as assimilation or fusion,monsang
+tone_alt_stem,morphanalysis_tag,form exhibits a tone alternation triggered by the stem,monsang
+variable_order,order_tag,form contains morphemes that can variably order,monsang
+optional_future,overabundance_tag,form that does not contain a marker for future tense (that is there in other forms with the same scenario),monsang
+optional_plural,overabundance_tag,form that does not contain a marker for plural (that is there in other forms with the same scenario),monsang
+default,paradigm_tag,"unmarked form (most general, most frequent, etc.) or form that has no other tag",monsang
+emph,paradigm_tag,emphatic paradigm,monsang
+hort,paradigm_tag,form is a hortative (not from declarative paradigm),monsang
+pragm_marked,paradigm_tag,pragmatically conditioned variation,monsang
+unspec_var,paradigm_tag,variant of (yet) unspecified distribution,monsang

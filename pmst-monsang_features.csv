@@ -1,0 +1,12 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,monsang
+incl,inclusive,clusivity,INCL,monsang
+pl,plural,number,PL,monsang
+sg,singular,number,SG,monsang
+1,first person,person,1,monsang
+2,second person,person,2,monsang
+3,third person,person,3,monsang
+aff,affirmative,polarity,POS,monsang
+neg,negative,polarity,NEG,monsang
+fut,future,tense_aspect,FUT,monsang
+nfut,non-future,tense_aspect,,monsang
