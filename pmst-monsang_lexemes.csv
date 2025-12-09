@@ -1,5 +1,6 @@
 lexeme_id,POS,label,meaning,language_id
-no_stem,pronoun,"no_stem, abstract_entry",,monsang
+no_stem,pronoun,,,monsang
+dɘ:,verb,dɘ́ː,love,monsang
 ka:,verb,káː,shoot,monsang
 kar,verb,kàr,climb,monsang
 kʰi:r,verb,"kʰíːr, kʰìːr",pass,monsang
