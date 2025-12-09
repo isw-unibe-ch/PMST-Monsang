@@ -35,7 +35,7 @@ For Monsang, it is an IPA version used by linguists and language experts.
 
 **How many instances are there in total?**
 
--   Number of inflected forms: 338
+-   Number of inflected forms: 336
 
 -   Number of unique inflected forms: 195
 
@@ -43,29 +43,40 @@ For Monsang, it is an IPA version used by linguists and language experts.
 
 -   Number of inflected forms per paradigm and subparadigm:
 
-    +----------+----+----------------+----+
-    | Paradigm | n  | Tags           | n  |
-    +==========+===:+================+===:+
-    | Pronouns | 16 | default        | 3  |
-    |          |    |                |    |
-    |          |    | unspec.var     | 13 |
-    +----------+----+----------------+----+
-    | NFUT.AFF | 88 | default        | 87 |
-    |          |    |                |    |
-    |          |    | pragm.m        |  1 |
-    +----------+----+----------------+----+
-    | NFUT.NEG | 75 | default        | 73 |
-    +----------+----+----------------+----+
-    | FUT.AFF  | 86 | default        | 70 |
-    |          |    |                |    |
-    |          |    | pragm.m        | 10 |
-    |          |    |                |    |
-    |          |    | emph           |  3 |
-    |          |    |                |    |
-    |          |    | hort           |  3 |
-    +----------+----+----------------+----+
-    | FUT.NEG  | 73 | default        | 72 |
-    +----------+----+----------------+----+
+| Paradigm |  n | Tags                        |  n |
+|----------|---:|-----------------------------|---:|
+| Pronouns | 16 | default                     |  6 |
+|          |    | unspec.var                  | 10 |
+| NFUT.AFF | 88 | default                     | 39 |
+|          |    | opt.pl                      |  1 |
+|          |    | morphophon                  | 41 |
+|          |    | morphophon, opt.pl          |  2 |
+|          |    | pragm.m                     |  1 |
+|          |    | var.order                   |  1 |
+|          |    | tone                        |  3 |
+| NFUT.NEG | 73 | default                     | 39 |
+|          |    | opt.pl                      |  4 |
+|          |    | var.order                   |  1 |
+|          |    | tone                        | 25 |
+|          |    | tone, opt.pl                |  3 |
+|          |    | tone, var.order             |  1 |
+| FUT.AFF  | 86 | default                     | 36 |
+|          |    | morphophon                  | 24 |
+|          |    | opt.pl                      |  1 |
+|          |    | pragm.m                     |  4 |
+|          |    | emph                        |  2 |
+|          |    | hort                        |  3 |
+|          |    | opt.fut, var.order          |  8 |
+|          |    | morphophon, opt.pl          |  1 |
+|          |    | pragm.m, morphophon         |  4 |
+|          |    | pragm.m, opt.pl             |  1 |
+|          |    | pragm.m, morphophon, opt.pl |  1 |
+|          |    | emph, morphophon            |  1 |
+| FUT.NEG  | 73 | default                     | 40 |
+|          |    | opt.pl                      |  4 |
+|          |    | tone                        | 25 |
+|          |    | tone, opt.pl                |  4 |
+
 
 **Language varieties**
 
