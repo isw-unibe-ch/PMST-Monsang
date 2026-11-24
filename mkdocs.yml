@@ -1,0 +1,24 @@
+site_name: "PMST-Monsang: Person Marking in Monsang (South-Central Trans-Himalayan)"
+docs_dir: docs
+theme:
+  palette:
+    primary: pink
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+plugins:
+  - paralex:
+      paralex_package_path: "pmst-monsang.package.json"
+      compress: false
+      layout_tables:
+        - tense_aspect
+      layout_rows:
+        - person
+        - number
+        - clusivity
+      layout_columns:
+        - polarity
+extra_javascript:
+  - column-filters.js
+repo_url: https://github.com/isw-unibe-ch/PMST-Monsang

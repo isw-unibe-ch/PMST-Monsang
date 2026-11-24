@@ -124,18 +124,26 @@ keywords:
 - paralex
 
 # List the contributors
-# contributors:
-# - roles: ["author", "dataCurator"]
-#   title: "<YOUR NAME>"
-#   path: "https://orcid.org/<ORCID>"
-#   organization: "<AFFILIATION>"
+contributors:
+- roles: "dataCurator"
+  title: "Linda Konnerth"
+  path: "https://orcid.org/0009-0009-1917-2180"
+  organization: "University of Bern"
+- roles: "author"
+  title: "Sandra Auderset"
+  path: "https://orcid.org/0000-0002-4673-4814"
+  organization: "University of Bern"
+- roles: "projectLeader"
+  title: "Linda Konnerth"
+  path: "https://orcid.org/0009-0009-1917-2180"
+  organization: "University of Bern"
 
 # You can list sources
-# sources:
-# - title: "Name of the source"
-#   path: "<URL>"
+sources:
+- title: "Auderset, S., Brown, H.L., Reich, J., Gerber, P., Zakaria, M. and Konnerth, L. (2026), A Database of Person Marking in South-Central Trans-Himalayan, Journal of Open Humanities Data, 12(1)"
+  path: "https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.505"
 # The homepage where you will deploy your repository.
-# homepage: "https://<REPOSITORY>.gitlab.io/"
+homepage: "https://github.com/isw-unibe-ch/PMST-Monsang"
 
 # Set a license for your dataset:
 licenses:

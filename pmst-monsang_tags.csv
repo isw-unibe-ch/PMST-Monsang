@@ -1,11 +1,14 @@
 tag_id,tag_column_name,comment,language_id
-morphophon,morphanalysis_tag,form exhibits morphophonological process(es) such as assimilation or fusion,monsang
-tone_alt_stem,morphanalysis_tag,form exhibits a tone alternation triggered by the stem,monsang
-variable_order,order_tag,form contains morphemes that can variably order,monsang
-optional_future,overabundance_tag,form that does not contain a marker for future tense (that is there in other forms with the same scenario),monsang
-optional_plural,overabundance_tag,form that does not contain a marker for plural (that is there in other forms with the same scenario),monsang
-default,paradigm_tag,"unmarked form (most general, most frequent, etc.) or form that has no other tag",monsang
-emph,paradigm_tag,emphatic paradigm,monsang
+fusion,analysis_tag,form exhibits fusion (morphophonology) in (at least) one of the morphemes,monsang
+mult_exponence,analysis_tag,form has one category marked multiple times (multiple exponence),monsang
+n_assim_general,analysis_tag,form exhibits general nasal assimilation,monsang
+n_assim_specific,analysis_tag,form exhibits morpheme-specific nasal assimilation,monsang
+tone_alt_stem,analysis_tag,form exhibits a tone alternation triggered by the stem,monsang
+variable_order,analysis_tag,form contains morphemes that can variably order,monsang
+vc_assim_specific,analysis_tag,form exhibits morpheme-specific voicing assimilation,monsang
+optional_future,overabundance_tag,form does not contain a marker for future tense (that is there in other forms with the same scenario),monsang
+optional_plural,overabundance_tag,form does not contain a marker for plural (that is there in other forms with the same scenario),monsang
 hort,paradigm_tag,form is a hortative (not from declarative paradigm),monsang
-pragm_marked,paradigm_tag,pragmatically conditioned variation,monsang
-unspec_var,paradigm_tag,variant of (yet) unspecified distribution,monsang
+emph,variants_tag,form is emphatic,monsang
+pragm_marked,variants_tag,form is sociopragmatically marked,monsang
+unspecified,variants_tag,form is not used in special contexts,monsang
